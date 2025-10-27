@@ -1,0 +1,3 @@
+acá pondremos los templates por escuela
+irá una hoja de PDF que contenga ya un texto y los títulos armados para
+facilitar la creación del PDF

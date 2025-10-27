@@ -1,0 +1,3 @@
+# también en esta parte se construyen las funciones para armnar las tablas de datos 
+# como por ejemplo la tabla por curso con cada una de las columnas que representen
+# los datos filtrados de diferentes maneras

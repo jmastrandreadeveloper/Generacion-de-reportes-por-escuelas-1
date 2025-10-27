@@ -1,0 +1,1 @@
+esta carpeta mantiene los PDFs en disco mientras se crean para luego leerlos , unirlos y borrarlos

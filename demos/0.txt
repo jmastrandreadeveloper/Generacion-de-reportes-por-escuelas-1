@@ -1,0 +1,43 @@
+funciones agrupadas según las categorías que mencionaste: 
+creación, manipulación, limpieza, combinación, y otras funciones.
+
+Creación
+Función	        Descripción	        Ejemplo de Uso
+pd.DataFrame	Crear un DataFrame	df = pd.DataFrame(data)
+
+Manipulación
+Función	        Descripción	                                                Ejemplo de Uso
+head, tail	    Mostrar las primeras/últimas filas del DataFrame	        df.head(5), df.tail(5)
+info	        Información general sobre el DataFrame	                    df.info()
+shape	        Dimensiones del DataFrame	                                df.shape
+dtypes	        Tipos de datos de las columnas	                            df.dtypes
+rename	        Renombrar columnas	                                        df.rename(columns={'old_name': 'new_name'})
+sort_values	    Ordenar el DataFrame por valores	                        df.sort_values(by='columna')
+sort_index	    Ordenar el DataFrame por índice	                            df.sort_index()
+groupby	        Agrupar datos y aplicar funciones de agregación	            df.groupby('columna').mean()
+agg	            Aplicar múltiples funciones de agregación	                df.groupby('columna').agg({'columna': ['sum', 'mean']})
+pivot_table	    Crear una tabla pivote	                                    df.pivot_table(index='col1', columns='col2', values='col3')
+melt	        Despivotar un DataFrame	                                    pd.melt(df, id_vars=['col1'], value_vars=['col2', 'col3'])
+apply	        Aplicar una función a lo largo de un eje del DataFrame      df.apply(np.sqrt)
+map, applymap	Aplicar una función a los elementos de una Serie/DataFrame	df['columna'].map(lambda x: x*2), df.applymap(str)
+astype	        Convertir el tipo de datos de una columna	                df['columna'].astype(int)
+resample	    Remuestrear datos de series temporales	                    df.resample('M').sum()
+rolling	        Calcular estadísticas móviles	                            df['columna'].rolling(window=3).mean()
+
+Limpieza
+Función	        Descripción	                                                Ejemplo de Uso
+isnull, notnull	Detectar valores nulos/no nulos	                            df.isnull(), df.notnull()
+fillna	Rellenar valores nulos	                                            df.fillna(0)
+dropna	Eliminar filas/columnas con valores nulos	                        df.dropna()
+drop	Eliminar filas/columnas	                                            df.drop(['columna1'], axis=1)
+
+Combinación
+Función	        Descripción	                                                Ejemplo de Uso
+merge	        Fusionar dos DataFrames	                                    pd.merge(df1, df2, on='columna')
+concat	        Concatenar DataFrames	                                    pd.concat([df1, df2], axis=0)
+join	        Unir DataFrames por índice	                                df1.join(df2)
+
+Otras Funciones
+Función	        Descripción	                                                Ejemplo de Uso
+describe	    Estadísticas descriptivas	                                df.describe()
+plot	        Crear gráficos utilizando Matplotlib desde DataFrame	    df.plot(kind='line')

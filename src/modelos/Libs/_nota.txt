@@ -1,0 +1,2 @@
+acá colocamos todas las funciones que sean comunes para el preproceso de los datos
+y todas las funciones que sean útiles para el manejo de los dataframes

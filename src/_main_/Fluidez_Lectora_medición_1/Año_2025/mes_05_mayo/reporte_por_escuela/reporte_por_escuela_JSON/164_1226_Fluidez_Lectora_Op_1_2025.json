@@ -1,0 +1,658 @@
+{
+    "164": {
+        "Escuela_ID": 164,
+        "datos_institucionales": {
+            "Número": 1226,
+            "Escuela": "SANTA CRUZ",
+            "Nivel": "Primario",
+            "Nivel_Unificado": "Primario",
+            "Gestión": "Pública",
+            "Supervisión": "32 - Primario",
+            "Departamento": "SAN RAFAEL",
+            "Localidad": "LA LLAVE",
+            "zona": "80%",
+            "AMBITO": "Rural",
+            "Regional": "SUR"
+        },
+        "lista_de_CURSOS_NORMALIZADOS": [
+            "1°",
+            "3°",
+            "4°",
+            "5°",
+            "6°",
+            "7°"
+        ],
+        "lista_de_CURSOS_NORMALIZADOS_con_datos": [
+            "3°",
+            "4°",
+            "5°",
+            "6°",
+            "7°"
+        ],
+        "Cantidad_de_estudiantes_censado_as": "Cantidad de estudiantes censado/as en su establecimiento en primera medición 2025",
+        "tabla_data_dict_totalidad_de_estudiantes_por_curso": [
+            {
+                "Cursos": "1°",
+                "Alumnos por curso": 6,
+                "Alumnos con DESEMPEÑO": 0,
+                "Alumnos incluidos SI": 0
+            },
+            {
+                "Cursos": "3°",
+                "Alumnos por curso": 4,
+                "Alumnos con DESEMPEÑO": 4,
+                "Alumnos incluidos SI": 0
+            },
+            {
+                "Cursos": "4°",
+                "Alumnos por curso": 5,
+                "Alumnos con DESEMPEÑO": 4,
+                "Alumnos incluidos SI": 1
+            },
+            {
+                "Cursos": "5°",
+                "Alumnos por curso": 3,
+                "Alumnos con DESEMPEÑO": 3,
+                "Alumnos incluidos SI": 0
+            },
+            {
+                "Cursos": "6°",
+                "Alumnos por curso": 3,
+                "Alumnos con DESEMPEÑO": 3,
+                "Alumnos incluidos SI": 0
+            },
+            {
+                "Cursos": "7°",
+                "Alumnos por curso": 5,
+                "Alumnos con DESEMPEÑO": 5,
+                "Alumnos incluidos SI": 0
+            },
+            {
+                "Cursos": "Total",
+                "Alumnos por curso": 26,
+                "Alumnos con DESEMPEÑO": 19,
+                "Alumnos incluidos SI": 1
+            }
+        ],
+        "porcentaje_de_carga_registrada": "Este informe se realizó el 19/08/2025 en base al 73 % de carga registrada en GEM.",
+        "1°": {
+            "Título_1_resultado_por_grado_curso": "Resultados de 1° grado de Primario",
+            "Título_2_porcentaje_por_grado_curso": "Porcentaje de estudiantes del grado por nivel de desempeño según medición",
+            "porcentaje_de_estudiantes_del_curso_por_nivel_de_desempeño_según_medición": [
+                {
+                    "Niveles de Desempeño": "Crítico",
+                    "Primera Medición 2024": 0,
+                    "Primera Medición 2025": 0
+                },
+                {
+                    "Niveles de Desempeño": "Básico",
+                    "Primera Medición 2024": 0,
+                    "Primera Medición 2025": 0
+                },
+                {
+                    "Niveles de Desempeño": "Medio",
+                    "Primera Medición 2024": 0,
+                    "Primera Medición 2025": 0
+                },
+                {
+                    "Niveles de Desempeño": "Avanzado",
+                    "Primera Medición 2024": 0,
+                    "Primera Medición 2025": 0
+                }
+            ],
+            "Título_3_cantidad_por_grado_curso": "Cantidad de estudiantes del grado por nivel de desempeño según medición",
+            "cantidad_de_estudiantes_del_curso_por_nivel_de_desempeño_según_medición": [
+                {
+                    "Niveles de Desempeño": "Avanzado",
+                    "Primera Medición 2024": 0,
+                    "Primera Medición 2025": 0
+                },
+                {
+                    "Niveles de Desempeño": "Medio",
+                    "Primera Medición 2024": 0,
+                    "Primera Medición 2025": 0
+                },
+                {
+                    "Niveles de Desempeño": "Básico",
+                    "Primera Medición 2024": 0,
+                    "Primera Medición 2025": 0
+                },
+                {
+                    "Niveles de Desempeño": "Crítico",
+                    "Primera Medición 2024": 0,
+                    "Primera Medición 2025": 0
+                },
+                {
+                    "Niveles de Desempeño": "Total",
+                    "Primera Medición 2024": 0,
+                    "Primera Medición 2025": 0
+                }
+            ],
+            "Listado Alumnos con DESEMPEÑO de 1° grado": {},
+            "Listado Alumnos incluidos SI": []
+        },
+        "3°": {
+            "Título_1_resultado_por_grado_curso": "Resultados de 3° grado de Primario",
+            "Título_2_porcentaje_por_grado_curso": "Porcentaje de estudiantes del grado por nivel de desempeño según medición",
+            "porcentaje_de_estudiantes_del_curso_por_nivel_de_desempeño_según_medición": [
+                {
+                    "Niveles de Desempeño": "Crítico",
+                    "Primera Medición 2024": 0,
+                    "Primera Medición 2025": 0
+                },
+                {
+                    "Niveles de Desempeño": "Básico",
+                    "Primera Medición 2024": 50,
+                    "Primera Medición 2025": 25
+                },
+                {
+                    "Niveles de Desempeño": "Medio",
+                    "Primera Medición 2024": 25,
+                    "Primera Medición 2025": 50
+                },
+                {
+                    "Niveles de Desempeño": "Avanzado",
+                    "Primera Medición 2024": 25,
+                    "Primera Medición 2025": 25
+                }
+            ],
+            "Título_3_cantidad_por_grado_curso": "Cantidad de estudiantes del grado por nivel de desempeño según medición",
+            "cantidad_de_estudiantes_del_curso_por_nivel_de_desempeño_según_medición": [
+                {
+                    "Niveles de Desempeño": "Avanzado",
+                    "Primera Medición 2024": 1,
+                    "Primera Medición 2025": 1
+                },
+                {
+                    "Niveles de Desempeño": "Medio",
+                    "Primera Medición 2024": 1,
+                    "Primera Medición 2025": 2
+                },
+                {
+                    "Niveles de Desempeño": "Básico",
+                    "Primera Medición 2024": 2,
+                    "Primera Medición 2025": 1
+                },
+                {
+                    "Niveles de Desempeño": "Total",
+                    "Primera Medición 2024": 4,
+                    "Primera Medición 2025": 4
+                }
+            ],
+            "Listado Alumnos con DESEMPEÑO de 3° grado": {
+                "Avanzado": [
+                    {
+                        "DNI": 55924801,
+                        "Apellido": "BOGADO",
+                        "Nombre": "DANNA GUADALUPE",
+                        "Curso ": "3°",
+                        "División": "1° y 3°",
+                        "Cant. palabras 1° med. 2024": "46",
+                        "Cant. palabras 3° med. 2024": "94",
+                        "Cant. palabras 1° med. 2025": 115,
+                        "Desemp. prim. med. 2025": "Avanzado"
+                    }
+                ],
+                "Medio": [
+                    {
+                        "DNI": 55545664,
+                        "Apellido": "GOMEZ GONZALEZ",
+                        "Nombre": "LIZ",
+                        "Curso ": "3°",
+                        "División": "1° y 3°",
+                        "Cant. palabras 1° med. 2024": "79",
+                        "Cant. palabras 3° med. 2024": "94",
+                        "Cant. palabras 1° med. 2025": 90,
+                        "Desemp. prim. med. 2025": "Medio"
+                    },
+                    {
+                        "DNI": 56081066,
+                        "Apellido": "MOLINA",
+                        "Nombre": "EITHAN BAUTISTA",
+                        "Curso ": "3°",
+                        "División": "1° y 3°",
+                        "Cant. palabras 1° med. 2024": "20",
+                        "Cant. palabras 3° med. 2024": "55",
+                        "Cant. palabras 1° med. 2025": 70,
+                        "Desemp. prim. med. 2025": "Medio"
+                    }
+                ],
+                "Básico": [
+                    {
+                        "DNI": 55549572,
+                        "Apellido": "GONZALEZ ALVAREZ",
+                        "Nombre": "SAMUEL OSEIAS",
+                        "Curso ": "3°",
+                        "División": "1° y 3°",
+                        "Cant. palabras 1° med. 2024": "26",
+                        "Cant. palabras 3° med. 2024": "49",
+                        "Cant. palabras 1° med. 2025": 40,
+                        "Desemp. prim. med. 2025": "Básico"
+                    }
+                ]
+            },
+            "Listado Alumnos incluidos SI": []
+        },
+        "4°": {
+            "Título_1_resultado_por_grado_curso": "Resultados de 4° grado de Primario",
+            "Título_2_porcentaje_por_grado_curso": "Porcentaje de estudiantes del grado por nivel de desempeño según medición",
+            "porcentaje_de_estudiantes_del_curso_por_nivel_de_desempeño_según_medición": [
+                {
+                    "Niveles de Desempeño": "Crítico",
+                    "Primera Medición 2024": 0.0,
+                    "Primera Medición 2025": 25
+                },
+                {
+                    "Niveles de Desempeño": "Básico",
+                    "Primera Medición 2024": 33.33,
+                    "Primera Medición 2025": 25
+                },
+                {
+                    "Niveles de Desempeño": "Medio",
+                    "Primera Medición 2024": 33.33,
+                    "Primera Medición 2025": 25
+                },
+                {
+                    "Niveles de Desempeño": "Avanzado",
+                    "Primera Medición 2024": 33.33,
+                    "Primera Medición 2025": 25
+                }
+            ],
+            "Título_3_cantidad_por_grado_curso": "Cantidad de estudiantes del grado por nivel de desempeño según medición",
+            "cantidad_de_estudiantes_del_curso_por_nivel_de_desempeño_según_medición": [
+                {
+                    "Niveles de Desempeño": "Avanzado",
+                    "Primera Medición 2024": 1,
+                    "Primera Medición 2025": 1
+                },
+                {
+                    "Niveles de Desempeño": "Medio",
+                    "Primera Medición 2024": 1,
+                    "Primera Medición 2025": 1
+                },
+                {
+                    "Niveles de Desempeño": "Básico",
+                    "Primera Medición 2024": 1,
+                    "Primera Medición 2025": 1
+                },
+                {
+                    "Niveles de Desempeño": "Crítico",
+                    "Primera Medición 2024": 0,
+                    "Primera Medición 2025": 1
+                },
+                {
+                    "Niveles de Desempeño": "Total",
+                    "Primera Medición 2024": 3,
+                    "Primera Medición 2025": 4
+                }
+            ],
+            "Listado Alumnos con DESEMPEÑO de 4° grado": {
+                "Avanzado": [
+                    {
+                        "DNI": 55541240,
+                        "Apellido": "RAMIREZ",
+                        "Nombre": "ALEXIA XIOMARA",
+                        "Curso ": "4°",
+                        "División": "4° y 5° grado",
+                        "Cant. palabras 1° med. 2024": "105",
+                        "Cant. palabras 3° med. 2024": "127",
+                        "Cant. palabras 1° med. 2025": 138,
+                        "Desemp. prim. med. 2025": "Avanzado"
+                    }
+                ],
+                "Medio": [
+                    {
+                        "DNI": 54920075,
+                        "Apellido": "VEGA",
+                        "Nombre": "TIANO MICHELLE",
+                        "Curso ": "4°",
+                        "División": "4° y 5° grado",
+                        "Cant. palabras 1° med. 2024": "70",
+                        "Cant. palabras 3° med. 2024": "87",
+                        "Cant. palabras 1° med. 2025": 83,
+                        "Desemp. prim. med. 2025": "Medio"
+                    }
+                ],
+                "Básico": [
+                    {
+                        "DNI": 55138294,
+                        "Apellido": "OLIVERA",
+                        "Nombre": "SHEILA SOFIA",
+                        "Curso ": "4°",
+                        "División": "4° y 5° grado",
+                        "Cant. palabras 1° med. 2024": "49",
+                        "Cant. palabras 3° med. 2024": "80",
+                        "Cant. palabras 1° med. 2025": 60,
+                        "Desemp. prim. med. 2025": "Básico"
+                    }
+                ],
+                "Crítico": [
+                    {
+                        "DNI": 54927920,
+                        "Apellido": " SASO ORTEGA",
+                        "Nombre": "FERNANDO ARIEL",
+                        "Curso ": "4°",
+                        "División": "4° y 5° grado",
+                        "Cant. palabras 1° med. 2024": "-",
+                        "Cant. palabras 3° med. 2024": "35",
+                        "Cant. palabras 1° med. 2025": 13,
+                        "Desemp. prim. med. 2025": "Crítico"
+                    }
+                ]
+            },
+            "Listado Alumnos incluidos SI": [
+                {
+                    "DNI": 53661940,
+                    "Apellido": "ALEGRE",
+                    "Nombre": "PAMELA ROSALÍA",
+                    "Curso ": "4°",
+                    "División": "4° y 5° grado",
+                    "Cant. palabras 1° med. 2024": "-",
+                    "Cant. palabras 3° med. 2024": "-",
+                    "Cant. palabras 1° med. 2025": "28"
+                }
+            ]
+        },
+        "5°": {
+            "Título_1_resultado_por_grado_curso": "Resultados de 5° grado de Primario",
+            "Título_2_porcentaje_por_grado_curso": "Porcentaje de estudiantes del grado por nivel de desempeño según medición",
+            "porcentaje_de_estudiantes_del_curso_por_nivel_de_desempeño_según_medición": [
+                {
+                    "Niveles de Desempeño": "Crítico",
+                    "Primera Medición 2024": 50,
+                    "Primera Medición 2025": 0.0
+                },
+                {
+                    "Niveles de Desempeño": "Básico",
+                    "Primera Medición 2024": 0,
+                    "Primera Medición 2025": 33.33
+                },
+                {
+                    "Niveles de Desempeño": "Medio",
+                    "Primera Medición 2024": 50,
+                    "Primera Medición 2025": 33.33
+                },
+                {
+                    "Niveles de Desempeño": "Avanzado",
+                    "Primera Medición 2024": 0,
+                    "Primera Medición 2025": 33.33
+                }
+            ],
+            "Título_3_cantidad_por_grado_curso": "Cantidad de estudiantes del grado por nivel de desempeño según medición",
+            "cantidad_de_estudiantes_del_curso_por_nivel_de_desempeño_según_medición": [
+                {
+                    "Niveles de Desempeño": "Avanzado",
+                    "Primera Medición 2024": 0,
+                    "Primera Medición 2025": 1
+                },
+                {
+                    "Niveles de Desempeño": "Medio",
+                    "Primera Medición 2024": 1,
+                    "Primera Medición 2025": 1
+                },
+                {
+                    "Niveles de Desempeño": "Básico",
+                    "Primera Medición 2024": 0,
+                    "Primera Medición 2025": 1
+                },
+                {
+                    "Niveles de Desempeño": "Crítico",
+                    "Primera Medición 2024": 1,
+                    "Primera Medición 2025": 0
+                },
+                {
+                    "Niveles de Desempeño": "Total",
+                    "Primera Medición 2024": 2,
+                    "Primera Medición 2025": 3
+                }
+            ],
+            "Listado Alumnos con DESEMPEÑO de 5° grado": {
+                "Avanzado": [
+                    {
+                        "DNI": 53938958,
+                        "Apellido": "LLANTÉN",
+                        "Nombre": "EMILIA ANTONELLA",
+                        "Curso ": "5°",
+                        "División": "4° y 5° grado",
+                        "Cant. palabras 1° med. 2024": "115",
+                        "Cant. palabras 3° med. 2024": "111",
+                        "Cant. palabras 1° med. 2025": 143,
+                        "Desemp. prim. med. 2025": "Avanzado"
+                    }
+                ],
+                "Medio": [
+                    {
+                        "DNI": 54435334,
+                        "Apellido": "OCHOA RODRIGUEZ",
+                        "Nombre": "LAUTARO ELIAS",
+                        "Curso ": "5°",
+                        "División": "4° y 5° grado",
+                        "Cant. palabras 1° med. 2024": "99",
+                        "Cant. palabras 3° med. 2024": "89",
+                        "Cant. palabras 1° med. 2025": 95,
+                        "Desemp. prim. med. 2025": "Medio"
+                    }
+                ],
+                "Básico": [
+                    {
+                        "DNI": 53666893,
+                        "Apellido": "RODRIGUEZ",
+                        "Nombre": "David Alejandro",
+                        "Curso ": "5°",
+                        "División": "4° y 5° grado",
+                        "Cant. palabras 1° med. 2024": "68",
+                        "Cant. palabras 3° med. 2024": "75",
+                        "Cant. palabras 1° med. 2025": 70,
+                        "Desemp. prim. med. 2025": "Básico"
+                    }
+                ]
+            },
+            "Listado Alumnos incluidos SI": []
+        },
+        "6°": {
+            "Título_1_resultado_por_grado_curso": "Resultados de 6° grado de Primario",
+            "Título_2_porcentaje_por_grado_curso": "Porcentaje de estudiantes del grado por nivel de desempeño según medición",
+            "porcentaje_de_estudiantes_del_curso_por_nivel_de_desempeño_según_medición": [
+                {
+                    "Niveles de Desempeño": "Crítico",
+                    "Primera Medición 2024": 14.29,
+                    "Primera Medición 2025": 33.33
+                },
+                {
+                    "Niveles de Desempeño": "Básico",
+                    "Primera Medición 2024": 42.86,
+                    "Primera Medición 2025": 0.0
+                },
+                {
+                    "Niveles de Desempeño": "Medio",
+                    "Primera Medición 2024": 28.57,
+                    "Primera Medición 2025": 66.67
+                },
+                {
+                    "Niveles de Desempeño": "Avanzado",
+                    "Primera Medición 2024": 14.29,
+                    "Primera Medición 2025": 0.0
+                }
+            ],
+            "Título_3_cantidad_por_grado_curso": "Cantidad de estudiantes del grado por nivel de desempeño según medición",
+            "cantidad_de_estudiantes_del_curso_por_nivel_de_desempeño_según_medición": [
+                {
+                    "Niveles de Desempeño": "Avanzado",
+                    "Primera Medición 2024": 1,
+                    "Primera Medición 2025": 0
+                },
+                {
+                    "Niveles de Desempeño": "Medio",
+                    "Primera Medición 2024": 2,
+                    "Primera Medición 2025": 2
+                },
+                {
+                    "Niveles de Desempeño": "Básico",
+                    "Primera Medición 2024": 3,
+                    "Primera Medición 2025": 0
+                },
+                {
+                    "Niveles de Desempeño": "Crítico",
+                    "Primera Medición 2024": 1,
+                    "Primera Medición 2025": 1
+                },
+                {
+                    "Niveles de Desempeño": "Total",
+                    "Primera Medición 2024": 7,
+                    "Primera Medición 2025": 3
+                }
+            ],
+            "Listado Alumnos con DESEMPEÑO de 6° grado": {
+                "Medio": [
+                    {
+                        "DNI": 53660849,
+                        "Apellido": "CAICEDO MOLINA",
+                        "Nombre": "NATASHA",
+                        "Curso ": "6°",
+                        "División": "6° y 7° grado",
+                        "Cant. palabras 1° med. 2024": "74",
+                        "Cant. palabras 3° med. 2024": "108",
+                        "Cant. palabras 1° med. 2025": 128,
+                        "Desemp. prim. med. 2025": "Medio"
+                    },
+                    {
+                        "DNI": 53314939,
+                        "Apellido": "OCHOA GONZALEZ",
+                        "Nombre": "ADRIEL",
+                        "Curso ": "6°",
+                        "División": "6° y 7° grado",
+                        "Cant. palabras 1° med. 2024": "91",
+                        "Cant. palabras 3° med. 2024": "153",
+                        "Cant. palabras 1° med. 2025": 118,
+                        "Desemp. prim. med. 2025": "Medio"
+                    }
+                ],
+                "Crítico": [
+                    {
+                        "DNI": 53160618,
+                        "Apellido": "CRUZ MUÑOZ",
+                        "Nombre": "VALENTIN",
+                        "Curso ": "6°",
+                        "División": "6° y 7° grado",
+                        "Cant. palabras 1° med. 2024": "45",
+                        "Cant. palabras 3° med. 2024": "80",
+                        "Cant. palabras 1° med. 2025": 70,
+                        "Desemp. prim. med. 2025": "Crítico"
+                    }
+                ]
+            },
+            "Listado Alumnos incluidos SI": []
+        },
+        "7°": {
+            "Título_1_resultado_por_grado_curso": "Resultados de 7° grado de Primario",
+            "Título_2_porcentaje_por_grado_curso": "Porcentaje de estudiantes del grado por nivel de desempeño según medición",
+            "porcentaje_de_estudiantes_del_curso_por_nivel_de_desempeño_según_medición": [
+                {
+                    "Niveles de Desempeño": "Crítico",
+                    "Primera Medición 2024": 20,
+                    "Primera Medición 2025": 0
+                },
+                {
+                    "Niveles de Desempeño": "Básico",
+                    "Primera Medición 2024": 20,
+                    "Primera Medición 2025": 40
+                },
+                {
+                    "Niveles de Desempeño": "Medio",
+                    "Primera Medición 2024": 60,
+                    "Primera Medición 2025": 60
+                },
+                {
+                    "Niveles de Desempeño": "Avanzado",
+                    "Primera Medición 2024": 0,
+                    "Primera Medición 2025": 0
+                }
+            ],
+            "Título_3_cantidad_por_grado_curso": "Cantidad de estudiantes del grado por nivel de desempeño según medición",
+            "cantidad_de_estudiantes_del_curso_por_nivel_de_desempeño_según_medición": [
+                {
+                    "Niveles de Desempeño": "Medio",
+                    "Primera Medición 2024": 3,
+                    "Primera Medición 2025": 3
+                },
+                {
+                    "Niveles de Desempeño": "Básico",
+                    "Primera Medición 2024": 1,
+                    "Primera Medición 2025": 2
+                },
+                {
+                    "Niveles de Desempeño": "Crítico",
+                    "Primera Medición 2024": 1,
+                    "Primera Medición 2025": 0
+                },
+                {
+                    "Niveles de Desempeño": "Total",
+                    "Primera Medición 2024": 5,
+                    "Primera Medición 2025": 5
+                }
+            ],
+            "Listado Alumnos con DESEMPEÑO de 7° grado": {
+                "Medio": [
+                    {
+                        "DNI": 52514923,
+                        "Apellido": "RAMIREZ",
+                        "Nombre": "GIULIANA AGOSTINA",
+                        "Curso ": "7°",
+                        "División": "6° y 7° grado",
+                        "Cant. palabras 1° med. 2024": "164",
+                        "Cant. palabras 3° med. 2024": "187",
+                        "Cant. palabras 1° med. 2025": 150,
+                        "Desemp. prim. med. 2025": "Medio"
+                    },
+                    {
+                        "DNI": 52938287,
+                        "Apellido": "GONZALEZ",
+                        "Nombre": "GERÓNIMO MATEO VALENTINO",
+                        "Curso ": "7°",
+                        "División": "6° y 7° grado",
+                        "Cant. palabras 1° med. 2024": "109",
+                        "Cant. palabras 3° med. 2024": "155",
+                        "Cant. palabras 1° med. 2025": 142,
+                        "Desemp. prim. med. 2025": "Medio"
+                    },
+                    {
+                        "DNI": 52942535,
+                        "Apellido": "CACERES",
+                        "Nombre": "LUCAS JAVIER",
+                        "Curso ": "7°",
+                        "División": "6° y 7° grado",
+                        "Cant. palabras 1° med. 2024": "95",
+                        "Cant. palabras 3° med. 2024": "131",
+                        "Cant. palabras 1° med. 2025": 127,
+                        "Desemp. prim. med. 2025": "Medio"
+                    }
+                ],
+                "Básico": [
+                    {
+                        "DNI": 52682734,
+                        "Apellido": "VEGA",
+                        "Nombre": "IRIS GERALDINE",
+                        "Curso ": "7°",
+                        "División": "6° y 7° grado",
+                        "Cant. palabras 1° med. 2024": "89",
+                        "Cant. palabras 3° med. 2024": "134",
+                        "Cant. palabras 1° med. 2025": 114,
+                        "Desemp. prim. med. 2025": "Básico"
+                    },
+                    {
+                        "DNI": 52293177,
+                        "Apellido": "BARZOLA",
+                        "Nombre": "ANTONIO LIONEL",
+                        "Curso ": "7°",
+                        "División": "6° y 7° grado",
+                        "Cant. palabras 1° med. 2024": "82",
+                        "Cant. palabras 3° med. 2024": "116",
+                        "Cant. palabras 1° med. 2025": 96,
+                        "Desemp. prim. med. 2025": "Básico"
+                    }
+                ]
+            },
+            "Listado Alumnos incluidos SI": []
+        }
+    }
+}

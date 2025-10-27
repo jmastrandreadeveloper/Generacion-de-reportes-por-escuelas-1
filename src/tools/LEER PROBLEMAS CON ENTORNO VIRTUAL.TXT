@@ -1,0 +1,36 @@
+DESISNTALAR PYTHON Y DEJAR UNO SOLO
+
+python --version
+# o bien
+python3 --version
+
+#################################################
+
+# En la terminal de VS Code, ya con Python 3.10 activo
+deactivate       # por si hay otro venv activo
+Remove-Item -Recurse -Force .venv_W
+python -m venv .venv_W
+.\.venv_W\Scripts\Activate
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+
+#################################################
+
+.\.venv_W\Scripts\Activate
+python -m pip install pandas      # se instala en el venv correcto
+
+#################################################
+
+# ① Activa el venv
+.\.venv_W\Scripts\Activate
+
+# ② Instala dentro del venv
+python -m pip install --upgrade pip
+python -m pip install pandas
+
+# ③ Selecciona en VS Code: Python: Select Interpreter → …\.venv_W\Scripts\python.exe
+
+# ④ Comprueba
+python -c "import pandas, sys, pprint; pprint.pprint(sys.executable); print(pandas.__version__)"
+
+

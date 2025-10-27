@@ -1,0 +1,3 @@
+organizamos las carpetas de tal manera que nos queden los operativos por fuera del código principal
+de manera que creamos carpetas para tal motivo
+De esta manera existirán diferentes main, de acuerdo al tipo de informe que estemos tratando

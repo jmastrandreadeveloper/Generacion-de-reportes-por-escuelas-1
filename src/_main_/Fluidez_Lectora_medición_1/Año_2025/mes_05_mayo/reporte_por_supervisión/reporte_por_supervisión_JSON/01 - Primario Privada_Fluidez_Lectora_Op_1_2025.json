@@ -1,0 +1,2575 @@
+{
+    "Supervisión": "01 - Primario Privada",
+    "Supervisión_tipo": "Primaria",
+    "Tipo_curso": "Grado",
+    "Lista_Escuelas": [
+        {
+            "Escuela_ID": 1812,
+            "Número": "P002",
+            "Escuela": "MARÍA AUXILIADORA",
+            "Nivel": "Primario",
+            "Nivel_Unificado": "Primario",
+            "Gestión": "Privada",
+            "Supervisión": "01 - Primario Privada",
+            "Departamento": "CAPITAL",
+            "Localidad": "CIUDAD",
+            "zona": "10%",
+            "AMBITO": "Urbano",
+            "Regional": "NO CORRESPONDE"
+        },
+        {
+            "Escuela_ID": 1813,
+            "Número": "P003",
+            "Escuela": "SAN BUENAVENTURA",
+            "Nivel": "Primario",
+            "Nivel_Unificado": "Primario",
+            "Gestión": "Privada",
+            "Supervisión": "01 - Primario Privada",
+            "Departamento": "CAPITAL",
+            "Localidad": "CIUDAD",
+            "zona": "Sin Zona",
+            "AMBITO": "Urbano",
+            "Regional": "NO CORRESPONDE"
+        },
+        {
+            "Escuela_ID": 1817,
+            "Número": "P008",
+            "Escuela": "SANTO TOMÁS DE AQUINO",
+            "Nivel": "Primario",
+            "Nivel_Unificado": "Primario",
+            "Gestión": "Privada",
+            "Supervisión": "01 - Primario Privada",
+            "Departamento": "CAPITAL",
+            "Localidad": "4º SECCION",
+            "zona": "Sin Zona",
+            "AMBITO": "Urbano",
+            "Regional": "NO CORRESPONDE"
+        },
+        {
+            "Escuela_ID": 1818,
+            "Número": "P010",
+            "Escuela": "SAN LUIS GONZAGA",
+            "Nivel": "Primario",
+            "Nivel_Unificado": "Primario",
+            "Gestión": "Privada",
+            "Supervisión": "01 - Primario Privada",
+            "Departamento": "CAPITAL",
+            "Localidad": "2º SECCION - RESIDENCIAL BARRIO CIVICO",
+            "zona": "Sin Zona",
+            "AMBITO": "Urbano",
+            "Regional": "NO CORRESPONDE"
+        },
+        {
+            "Escuela_ID": 1820,
+            "Número": "P013",
+            "Escuela": "SAN PEDRO NOLASCO",
+            "Nivel": "Primario",
+            "Nivel_Unificado": "Primario",
+            "Gestión": "Privada",
+            "Supervisión": "01 - Primario Privada",
+            "Departamento": "CAPITAL",
+            "Localidad": "3º SECCION - PARQUE O'HIGGINS",
+            "zona": "Sin Zona",
+            "AMBITO": "Urbano",
+            "Regional": "NO CORRESPONDE"
+        },
+        {
+            "Escuela_ID": 1823,
+            "Número": "P016",
+            "Escuela": "SAN ANDRÉS",
+            "Nivel": "Primario",
+            "Nivel_Unificado": "Primario",
+            "Gestión": "Privada",
+            "Supervisión": "01 - Primario Privada",
+            "Departamento": "CAPITAL",
+            "Localidad": "6º SECCION - RESIDENCIAL NORTE",
+            "zona": "-",
+            "AMBITO": "Urbano",
+            "Regional": "NO CORRESPONDE"
+        },
+        {
+            "Escuela_ID": 1844,
+            "Número": "P039",
+            "Escuela": "INSTITUTO NADINO",
+            "Nivel": "Primario",
+            "Nivel_Unificado": "Primario",
+            "Gestión": "Privada",
+            "Supervisión": "01 - Primario Privada",
+            "Departamento": "CAPITAL",
+            "Localidad": "6º SECCION - RESIDENCIAL NORTE",
+            "zona": "Sin Zona",
+            "AMBITO": "Urbano",
+            "Regional": "NO CORRESPONDE"
+        },
+        {
+            "Escuela_ID": 1846,
+            "Número": "P041",
+            "Escuela": "DR. MAX NORDAU",
+            "Nivel": "Primario",
+            "Nivel_Unificado": "Primario",
+            "Gestión": "Privada",
+            "Supervisión": "01 - Primario Privada",
+            "Departamento": "CAPITAL",
+            "Localidad": "3º SECCION - PARQUE O'HIGGINS",
+            "zona": "-",
+            "AMBITO": "Urbano",
+            "Regional": "NO CORRESPONDE"
+        },
+        {
+            "Escuela_ID": 1849,
+            "Número": "P046",
+            "Escuela": "I.C.E.I.",
+            "Nivel": "Primario",
+            "Nivel_Unificado": "Primario",
+            "Gestión": "Privada",
+            "Supervisión": "01 - Primario Privada",
+            "Departamento": "CAPITAL",
+            "Localidad": "1º SECCION - PARQUE CENTRAL",
+            "zona": "Sin Zona",
+            "AMBITO": "Urbano",
+            "Regional": "NO CORRESPONDE"
+        },
+        {
+            "Escuela_ID": 1862,
+            "Número": "P059",
+            "Escuela": "INSTITUTO ADVENTISTA VÍCTOR AMPUERO MATTA",
+            "Nivel": "Primario",
+            "Nivel_Unificado": "Primario",
+            "Gestión": "Privada",
+            "Supervisión": "01 - Primario Privada",
+            "Departamento": "CAPITAL",
+            "Localidad": "5º SECCION -  RESIDENCIAL SUR",
+            "zona": "Sin Zona",
+            "AMBITO": "Urbano",
+            "Regional": "NO CORRESPONDE"
+        },
+        {
+            "Escuela_ID": 1865,
+            "Número": "P063",
+            "Escuela": "ESCUELA CRISTIANA EVANGÉLICA MENDOZA",
+            "Nivel": "Primario",
+            "Nivel_Unificado": "Primario",
+            "Gestión": "Privada",
+            "Supervisión": "01 - Primario Privada",
+            "Departamento": "CAPITAL",
+            "Localidad": "5º SECCION -  RESIDENCIAL SUR",
+            "zona": "-",
+            "AMBITO": "Urbano",
+            "Regional": "NO CORRESPONDE"
+        },
+        {
+            "Escuela_ID": 1869,
+            "Número": "P068",
+            "Escuela": "NTRA. SRA. DEL R. DE POMPEYA",
+            "Nivel": "Primario",
+            "Nivel_Unificado": "Primario",
+            "Gestión": "Privada",
+            "Supervisión": "01 - Primario Privada",
+            "Departamento": "CAPITAL",
+            "Localidad": "4º SECCION",
+            "zona": "Sin Zona",
+            "AMBITO": "Urbano",
+            "Regional": "NO CORRESPONDE"
+        },
+        {
+            "Escuela_ID": 1875,
+            "Número": "P079",
+            "Escuela": "CORAZÓN DE MARÍA",
+            "Nivel": "Primario",
+            "Nivel_Unificado": "Primario",
+            "Gestión": "Privada",
+            "Supervisión": "01 - Primario Privada",
+            "Departamento": "CAPITAL",
+            "Localidad": "5º SECCION -  RESIDENCIAL SUR",
+            "zona": "-",
+            "AMBITO": "Urbano",
+            "Regional": "NO CORRESPONDE"
+        },
+        {
+            "Escuela_ID": 1908,
+            "Número": "P130",
+            "Escuela": "INMACULADO CORAZÓN DE MARÍA",
+            "Nivel": "Primario",
+            "Nivel_Unificado": "Primario",
+            "Gestión": "Privada",
+            "Supervisión": "01 - Primario Privada",
+            "Departamento": "CAPITAL",
+            "Localidad": "5º SECCION -  RESIDENCIAL SUR",
+            "zona": "50%",
+            "AMBITO": "Marginal",
+            "Regional": "NO CORRESPONDE"
+        },
+        {
+            "Escuela_ID": 1909,
+            "Número": "P131",
+            "Escuela": "FUNDACIÓN RICART (NORBRIDGE)",
+            "Nivel": "Primario",
+            "Nivel_Unificado": "Primario",
+            "Gestión": "Privada",
+            "Supervisión": "01 - Primario Privada",
+            "Departamento": "CAPITAL",
+            "Localidad": "1º SECCION - PARQUE CENTRAL",
+            "zona": "Sin Zona",
+            "AMBITO": "Urbano",
+            "Regional": "NO CORRESPONDE"
+        },
+        {
+            "Escuela_ID": 1913,
+            "Número": "P136",
+            "Escuela": "S.T.R.O.B.E.R.I.",
+            "Nivel": "Primario",
+            "Nivel_Unificado": "Primario",
+            "Gestión": "Privada",
+            "Supervisión": "01 - Primario Privada",
+            "Departamento": "CAPITAL",
+            "Localidad": "2º SECCION - RESIDENCIAL BARRIO CIVICO",
+            "zona": "Sin Zona",
+            "AMBITO": "Urbano",
+            "Regional": "NO CORRESPONDE"
+        },
+        {
+            "Escuela_ID": 1918,
+            "Número": "P162",
+            "Escuela": "INSTITUTO CRECER",
+            "Nivel": "Primario",
+            "Nivel_Unificado": "Primario",
+            "Gestión": "Privada",
+            "Supervisión": "01 - Primario Privada",
+            "Departamento": "LAS HERAS",
+            "Localidad": "EL ZAPALLAR",
+            "zona": "-",
+            "AMBITO": "Urbano",
+            "Regional": "NO CORRESPONDE"
+        },
+        {
+            "Escuela_ID": 2565,
+            "Número": "P001",
+            "Escuela": "DON BOSCO",
+            "Nivel": "Primario",
+            "Nivel_Unificado": "Primario",
+            "Gestión": "Privada",
+            "Supervisión": "01 - Primario Privada",
+            "Departamento": "CAPITAL",
+            "Localidad": "3º SECCION - PARQUE O'HIGGINS",
+            "zona": "10%",
+            "AMBITO": "Urbano",
+            "Regional": "NO CORRESPONDE"
+        }
+    ],
+    "título_tabla_enlaces": "Enlaces a los informes de Fluidez Lectora",
+    "Escuelas_con_enlace": [
+        {
+            "Número": "P002",
+            "Escuela": "MARÍA AUXILIADORA",
+            "Enlace al informe": "https://drive.google.com/file/d/103ckP08gaEnUBYVRxe7_EWt2zWZr_3gY/view?usp=drivesdk"
+        },
+        {
+            "Número": "P003",
+            "Escuela": "SAN BUENAVENTURA",
+            "Enlace al informe": "https://drive.google.com/file/d/15AVHbgDKgeUVQs2VzkvEowzYPbgbXSDh/view?usp=drivesdk"
+        },
+        {
+            "Número": "P008",
+            "Escuela": "SANTO TOMÁS DE AQUINO",
+            "Enlace al informe": "https://drive.google.com/file/d/1LgDuHkLuB7i28SYygCkmHDYox3gS3Bv8/view?usp=drivesdk"
+        },
+        {
+            "Número": "P010",
+            "Escuela": "SAN LUIS GONZAGA",
+            "Enlace al informe": "https://drive.google.com/file/d/17g3jKnyz53h2vJexiEtClgpfftqL7l4L/view?usp=drivesdk"
+        },
+        {
+            "Número": "P013",
+            "Escuela": "SAN PEDRO NOLASCO",
+            "Enlace al informe": "https://drive.google.com/file/d/1gUnSqw74iv_iKR4iolvBFBBf41IIdz2J/view?usp=drivesdk"
+        },
+        {
+            "Número": "P016",
+            "Escuela": "SAN ANDRÉS",
+            "Enlace al informe": "https://drive.google.com/file/d/15Rg9nx7B3AlykD--bNE2WRM47OFs4A5d/view?usp=drivesdk"
+        },
+        {
+            "Número": "P039",
+            "Escuela": "INSTITUTO NADINO",
+            "Enlace al informe": "https://drive.google.com/file/d/1hFglS56-JiOTsB1Io2fWFUTMGeC9D0p7/view?usp=drivesdk"
+        },
+        {
+            "Número": "P041",
+            "Escuela": "DR. MAX NORDAU",
+            "Enlace al informe": "https://drive.google.com/file/d/1h8QKUXQDOUrb7mFdI1JshNRnc0ZUxqvl/view?usp=drivesdk"
+        },
+        {
+            "Número": "P046",
+            "Escuela": "I.C.E.I.",
+            "Enlace al informe": "https://drive.google.com/file/d/1emZ3epJcSJh8VaxWaWdxyP2BOjphKOC7/view?usp=drivesdk"
+        },
+        {
+            "Número": "P059",
+            "Escuela": "INSTITUTO ADVENTISTA VÍCTOR AMPUERO MATTA",
+            "Enlace al informe": "https://drive.google.com/file/d/1_R1rEf7C6lZG4UQGlsrNHct4iAmZkPr4/view?usp=drivesdk"
+        },
+        {
+            "Número": "P063",
+            "Escuela": "ESCUELA CRISTIANA EVANGÉLICA MENDOZA",
+            "Enlace al informe": "https://drive.google.com/file/d/13sOyYPaWPnI0RAGUjloMZANq--CepoYO/view?usp=drivesdk"
+        },
+        {
+            "Número": "P068",
+            "Escuela": "NTRA. SRA. DEL R. DE POMPEYA",
+            "Enlace al informe": "https://drive.google.com/file/d/1gqhHVa-y07pvufGRyEO7UlAnryqJ2sPZ/view?usp=drivesdk"
+        },
+        {
+            "Número": "P079",
+            "Escuela": "CORAZÓN DE MARÍA",
+            "Enlace al informe": "https://drive.google.com/file/d/1aeLKczSTF0uFXCStF58f0luQVP28oRBj/view?usp=drivesdk"
+        },
+        {
+            "Número": "P130",
+            "Escuela": "INMACULADO CORAZÓN DE MARÍA",
+            "Enlace al informe": "https://drive.google.com/file/d/1kl5yYaOwSo4iyp8nFFbBll7rmvpVE2Dc/view?usp=drivesdk"
+        },
+        {
+            "Número": "P131",
+            "Escuela": "FUNDACIÓN RICART (NORBRIDGE)",
+            "Enlace al informe": "https://drive.google.com/file/d/15T8DfpPxHslGbCf8G_LxcLI1d_S8802S/view?usp=drivesdk"
+        },
+        {
+            "Número": "P136",
+            "Escuela": "S.T.R.O.B.E.R.I.",
+            "Enlace al informe": "https://drive.google.com/file/d/1sXiKTNPCEcB2DpMHaAkdIS2Hv-D_fHUJ/view?usp=drivesdk"
+        },
+        {
+            "Número": "P162",
+            "Escuela": "INSTITUTO CRECER",
+            "Enlace al informe": "https://drive.google.com/file/d/1N8gc3prOMrwIwDawu0StHY5rMVLjyqhh/view?usp=drivesdk"
+        },
+        {
+            "Número": "P001",
+            "Escuela": "DON BOSCO",
+            "Enlace al informe": "https://drive.google.com/file/d/1bS_mjOM3_AY05hcPsJ-RrT6OzAAEeiCT/view?usp=drivesdk"
+        }
+    ],
+    "título_tabala_uno": "Cantidad de estudiantes censados/as por establecimiento",
+    "tabla_data_dict_primera_tabla_del_informe_Supervisores": [
+        {
+            "Número": "P002",
+            "Escuela": "MARÍA AUXILIADORA",
+            "Censados": 366,
+            "Matrícula": 387
+        },
+        {
+            "Número": "P003",
+            "Escuela": "SAN BUENAVENTURA",
+            "Censados": 314,
+            "Matrícula": 365
+        },
+        {
+            "Número": "P008",
+            "Escuela": "SANTO TOMÁS DE AQUIN",
+            "Censados": 276,
+            "Matrícula": 280
+        },
+        {
+            "Número": "P010",
+            "Escuela": "SAN LUIS GONZAGA",
+            "Censados": 195,
+            "Matrícula": 402
+        },
+        {
+            "Número": "P013",
+            "Escuela": "SAN PEDRO NOLASCO",
+            "Censados": 444,
+            "Matrícula": 462
+        },
+        {
+            "Número": "P016",
+            "Escuela": "SAN ANDRÉS",
+            "Censados": 302,
+            "Matrícula": 309
+        },
+        {
+            "Número": "P039",
+            "Escuela": "INSTITUTO NADINO",
+            "Censados": 319,
+            "Matrícula": 340
+        },
+        {
+            "Número": "P041",
+            "Escuela": "DR. MAX NORDAU",
+            "Censados": 99,
+            "Matrícula": 101
+        },
+        {
+            "Número": "P046",
+            "Escuela": "I.C.E.I.",
+            "Censados": 338,
+            "Matrícula": 358
+        },
+        {
+            "Número": "P059",
+            "Escuela": "INSTITUTO ADVENTISTA",
+            "Censados": 99,
+            "Matrícula": 144
+        },
+        {
+            "Número": "P063",
+            "Escuela": "ESCUELA CRISTIANA EV",
+            "Censados": 154,
+            "Matrícula": 159
+        },
+        {
+            "Número": "P068",
+            "Escuela": "NTRA. SRA. DEL R. DE",
+            "Censados": 337,
+            "Matrícula": 351
+        },
+        {
+            "Número": "P079",
+            "Escuela": "CORAZÓN DE MARÍA",
+            "Censados": 344,
+            "Matrícula": 370
+        },
+        {
+            "Número": "P130",
+            "Escuela": "INMACULADO CORAZÓN D",
+            "Censados": 316,
+            "Matrícula": 328
+        },
+        {
+            "Número": "P131",
+            "Escuela": "FUNDACIÓN RICART (NO",
+            "Censados": 249,
+            "Matrícula": 263
+        },
+        {
+            "Número": "P136",
+            "Escuela": "S.T.R.O.B.E.R.I.",
+            "Censados": 121,
+            "Matrícula": 129
+        },
+        {
+            "Número": "P162",
+            "Escuela": "INSTITUTO CRECER",
+            "Censados": 184,
+            "Matrícula": 192
+        },
+        {
+            "Número": "P001",
+            "Escuela": "DON BOSCO",
+            "Censados": 475,
+            "Matrícula": 519
+        },
+        {
+            "Número": "Total",
+            "Escuela": "",
+            "Censados": 4932,
+            "Matrícula": 5459
+        }
+    ],
+    "título_tabala_dos": "RESULTADOS DE TODOS LOS CURSOS CENSADOS",
+    "sub_título_tabala_dos": "Proporción de estudiantes por escuela según nivel de desempeño en fluidez lectora",
+    "desempeños_por_escuelas_de_la_supervision": [
+        {
+            "Número": "P130",
+            "Avanzado": 9.81,
+            "Medio": 28.8,
+            "Básico": 34.18,
+            "Crítico": 27.22
+        },
+        {
+            "Número": "P162",
+            "Avanzado": 39.13,
+            "Medio": 30.98,
+            "Básico": 19.02,
+            "Crítico": 10.87
+        },
+        {
+            "Número": "P001",
+            "Avanzado": 30.32,
+            "Medio": 35.58,
+            "Básico": 23.79,
+            "Crítico": 10.32
+        },
+        {
+            "Número": "P003",
+            "Avanzado": 31.53,
+            "Medio": 36.94,
+            "Básico": 22.61,
+            "Crítico": 8.92
+        },
+        {
+            "Número": "P013",
+            "Avanzado": 28.15,
+            "Medio": 40.32,
+            "Básico": 22.75,
+            "Crítico": 8.78
+        },
+        {
+            "Número": "P068",
+            "Avanzado": 20.77,
+            "Medio": 43.92,
+            "Básico": 27.89,
+            "Crítico": 7.42
+        },
+        {
+            "Número": "P002",
+            "Avanzado": 26.5,
+            "Medio": 36.07,
+            "Básico": 31.15,
+            "Crítico": 6.28
+        },
+        {
+            "Número": "P008",
+            "Avanzado": 41.67,
+            "Medio": 38.77,
+            "Básico": 14.13,
+            "Crítico": 5.43
+        },
+        {
+            "Número": "P039",
+            "Avanzado": 31.35,
+            "Medio": 39.5,
+            "Básico": 24.14,
+            "Crítico": 5.02
+        },
+        {
+            "Número": "P136",
+            "Avanzado": 32.23,
+            "Medio": 45.45,
+            "Básico": 17.36,
+            "Crítico": 4.96
+        },
+        {
+            "Número": "P010",
+            "Avanzado": 37.44,
+            "Medio": 40.0,
+            "Básico": 18.46,
+            "Crítico": 4.1
+        },
+        {
+            "Número": "P059",
+            "Avanzado": 27.27,
+            "Medio": 43.43,
+            "Básico": 25.25,
+            "Crítico": 4.04
+        },
+        {
+            "Número": "P041",
+            "Avanzado": 50.51,
+            "Medio": 41.41,
+            "Básico": 4.04,
+            "Crítico": 4.04
+        },
+        {
+            "Número": "P079",
+            "Avanzado": 31.98,
+            "Medio": 43.9,
+            "Básico": 22.09,
+            "Crítico": 2.03
+        },
+        {
+            "Número": "P046",
+            "Avanzado": 49.11,
+            "Medio": 34.91,
+            "Básico": 14.79,
+            "Crítico": 1.18
+        },
+        {
+            "Número": "P016",
+            "Avanzado": 46.69,
+            "Medio": 40.4,
+            "Básico": 11.92,
+            "Crítico": 0.99
+        },
+        {
+            "Número": "P131",
+            "Avanzado": 53.01,
+            "Medio": 31.33,
+            "Básico": 15.66,
+            "Crítico": 0.0
+        },
+        {
+            "Número": "P063",
+            "Avanzado": 36.36,
+            "Medio": 48.05,
+            "Básico": 15.58,
+            "Crítico": 0.0
+        }
+    ],
+    "TÏTULO_Cantidad_de_estudiantes_censados_por_establecimiento_SEGÚN_NIVEL_DE_DESEMPEÑO": "Cantidad de estudiantes censados por escuela según nivel de desempeño",
+    "tabla_data_dict_Cantidad_de_estudiantes_censados_por_establecimiento_SEGÚN_NIVEL_DE_DESEMPEÑO": [
+        {
+            "Número": "P130",
+            "Escuela": "INMACULADO CORAZÓN D",
+            "Avanzado": 31,
+            "Medio": 91,
+            "Básico": 108,
+            "Crítico": 86,
+            "Total": 316
+        },
+        {
+            "Número": "P001",
+            "Escuela": "DON BOSCO",
+            "Avanzado": 144,
+            "Medio": 169,
+            "Básico": 113,
+            "Crítico": 49,
+            "Total": 475
+        },
+        {
+            "Número": "P013",
+            "Escuela": "SAN PEDRO NOLASCO",
+            "Avanzado": 125,
+            "Medio": 179,
+            "Básico": 101,
+            "Crítico": 39,
+            "Total": 444
+        },
+        {
+            "Número": "P003",
+            "Escuela": "SAN BUENAVENTURA",
+            "Avanzado": 99,
+            "Medio": 116,
+            "Básico": 71,
+            "Crítico": 28,
+            "Total": 314
+        },
+        {
+            "Número": "P068",
+            "Escuela": "NTRA. SRA. DEL R. DE",
+            "Avanzado": 70,
+            "Medio": 148,
+            "Básico": 94,
+            "Crítico": 25,
+            "Total": 337
+        },
+        {
+            "Número": "P002",
+            "Escuela": "MARÍA AUXILIADORA",
+            "Avanzado": 97,
+            "Medio": 132,
+            "Básico": 114,
+            "Crítico": 23,
+            "Total": 366
+        },
+        {
+            "Número": "P162",
+            "Escuela": "INSTITUTO CRECER",
+            "Avanzado": 72,
+            "Medio": 57,
+            "Básico": 35,
+            "Crítico": 20,
+            "Total": 184
+        },
+        {
+            "Número": "P039",
+            "Escuela": "INSTITUTO NADINO",
+            "Avanzado": 100,
+            "Medio": 126,
+            "Básico": 77,
+            "Crítico": 16,
+            "Total": 319
+        },
+        {
+            "Número": "P008",
+            "Escuela": "SANTO TOMÁS DE AQUIN",
+            "Avanzado": 115,
+            "Medio": 107,
+            "Básico": 39,
+            "Crítico": 15,
+            "Total": 276
+        },
+        {
+            "Número": "P010",
+            "Escuela": "SAN LUIS GONZAGA",
+            "Avanzado": 73,
+            "Medio": 78,
+            "Básico": 36,
+            "Crítico": 8,
+            "Total": 195
+        },
+        {
+            "Número": "P079",
+            "Escuela": "CORAZÓN DE MARÍA",
+            "Avanzado": 110,
+            "Medio": 151,
+            "Básico": 76,
+            "Crítico": 7,
+            "Total": 344
+        },
+        {
+            "Número": "P136",
+            "Escuela": "S.T.R.O.B.E.R.I.",
+            "Avanzado": 39,
+            "Medio": 55,
+            "Básico": 21,
+            "Crítico": 6,
+            "Total": 121
+        },
+        {
+            "Número": "P046",
+            "Escuela": "I.C.E.I.",
+            "Avanzado": 166,
+            "Medio": 118,
+            "Básico": 50,
+            "Crítico": 4,
+            "Total": 338
+        },
+        {
+            "Número": "P059",
+            "Escuela": "INSTITUTO ADVENTISTA",
+            "Avanzado": 27,
+            "Medio": 43,
+            "Básico": 25,
+            "Crítico": 4,
+            "Total": 99
+        },
+        {
+            "Número": "P041",
+            "Escuela": "DR. MAX NORDAU",
+            "Avanzado": 50,
+            "Medio": 41,
+            "Básico": 4,
+            "Crítico": 4,
+            "Total": 99
+        },
+        {
+            "Número": "P016",
+            "Escuela": "SAN ANDRÉS",
+            "Avanzado": 141,
+            "Medio": 122,
+            "Básico": 36,
+            "Crítico": 3,
+            "Total": 302
+        },
+        {
+            "Número": "P131",
+            "Escuela": "FUNDACIÓN RICART (NO",
+            "Avanzado": 132,
+            "Medio": 78,
+            "Básico": 39,
+            "Crítico": 0,
+            "Total": 249
+        },
+        {
+            "Número": "P063",
+            "Escuela": "ESCUELA CRISTIANA EV",
+            "Avanzado": 56,
+            "Medio": 74,
+            "Básico": 24,
+            "Crítico": 0,
+            "Total": 154
+        },
+        {
+            "Número": "TOTAL",
+            "Escuela": "",
+            "Avanzado": 1647,
+            "Medio": 1885,
+            "Básico": 1063,
+            "Crítico": 337,
+            "Total": 4932
+        }
+    ],
+    "lista_de_Cursos_de_la_Supervisión": [
+        "2°",
+        "3°",
+        "4°",
+        "5°",
+        "6°",
+        "7°"
+    ],
+    "tabla_data_dict_Cantidad_de_estudiantes_censados_por_curso_SEGÚN_NIVEL_DE_DESEMPEÑO": {
+        "2°": [
+            {
+                "Número": "P130",
+                "Escuela": "INMACULADO CORAZÓN D",
+                "Avanzado": 2,
+                "Medio": 4,
+                "Básico": 6,
+                "Crítico": 38,
+                "Total": 50
+            },
+            {
+                "Número": "P162",
+                "Escuela": "INSTITUTO CRECER",
+                "Avanzado": 7,
+                "Medio": 5,
+                "Básico": 8,
+                "Crítico": 12,
+                "Total": 32
+            },
+            {
+                "Número": "P001",
+                "Escuela": "DON BOSCO",
+                "Avanzado": 14,
+                "Medio": 18,
+                "Básico": 21,
+                "Crítico": 23,
+                "Total": 76
+            },
+            {
+                "Número": "P068",
+                "Escuela": "NTRA. SRA. DEL R. DE",
+                "Avanzado": 6,
+                "Medio": 10,
+                "Básico": 19,
+                "Crítico": 11,
+                "Total": 46
+            },
+            {
+                "Número": "P013",
+                "Escuela": "SAN PEDRO NOLASCO",
+                "Avanzado": 14,
+                "Medio": 12,
+                "Básico": 20,
+                "Crítico": 13,
+                "Total": 59
+            },
+            {
+                "Número": "P003",
+                "Escuela": "SAN BUENAVENTURA",
+                "Avanzado": 6,
+                "Medio": 11,
+                "Básico": 20,
+                "Crítico": 10,
+                "Total": 47
+            },
+            {
+                "Número": "P008",
+                "Escuela": "SANTO TOMÁS DE AQUIN",
+                "Avanzado": 11,
+                "Medio": 11,
+                "Básico": 12,
+                "Crítico": 7,
+                "Total": 41
+            },
+            {
+                "Número": "P002",
+                "Escuela": "MARÍA AUXILIADORA",
+                "Avanzado": 10,
+                "Medio": 16,
+                "Básico": 23,
+                "Crítico": 8,
+                "Total": 57
+            },
+            {
+                "Número": "P039",
+                "Escuela": "INSTITUTO NADINO",
+                "Avanzado": 13,
+                "Medio": 13,
+                "Básico": 19,
+                "Crítico": 5,
+                "Total": 50
+            },
+            {
+                "Número": "P041",
+                "Escuela": "DR. MAX NORDAU",
+                "Avanzado": 7,
+                "Medio": 3,
+                "Básico": 1,
+                "Crítico": 1,
+                "Total": 12
+            },
+            {
+                "Número": "P136",
+                "Escuela": "S.T.R.O.B.E.R.I.",
+                "Avanzado": 5,
+                "Medio": 3,
+                "Básico": 3,
+                "Crítico": 1,
+                "Total": 12
+            },
+            {
+                "Número": "P010",
+                "Escuela": "SAN LUIS GONZAGA",
+                "Avanzado": 20,
+                "Medio": 16,
+                "Básico": 17,
+                "Crítico": 2,
+                "Total": 55
+            },
+            {
+                "Número": "P046",
+                "Escuela": "I.C.E.I.",
+                "Avanzado": 14,
+                "Medio": 22,
+                "Básico": 18,
+                "Crítico": 2,
+                "Total": 56
+            },
+            {
+                "Número": "P016",
+                "Escuela": "SAN ANDRÉS",
+                "Avanzado": 10,
+                "Medio": 25,
+                "Básico": 11,
+                "Crítico": 1,
+                "Total": 47
+            },
+            {
+                "Número": "P063",
+                "Escuela": "ESCUELA CRISTIANA EV",
+                "Avanzado": 6,
+                "Medio": 15,
+                "Básico": 4,
+                "Crítico": 0,
+                "Total": 25
+            },
+            {
+                "Número": "P079",
+                "Escuela": "CORAZÓN DE MARÍA",
+                "Avanzado": 10,
+                "Medio": 25,
+                "Básico": 19,
+                "Crítico": 0,
+                "Total": 54
+            },
+            {
+                "Número": "P131",
+                "Escuela": "FUNDACIÓN RICART (NO",
+                "Avanzado": 16,
+                "Medio": 23,
+                "Básico": 17,
+                "Crítico": 0,
+                "Total": 56
+            },
+            {
+                "Número": "P059",
+                "Escuela": "INSTITUTO ADVENTISTA",
+                "Avanzado": 6,
+                "Medio": 8,
+                "Básico": 7,
+                "Crítico": 0,
+                "Total": 21
+            },
+            {
+                "Número": "",
+                "Escuela": "TOTAL",
+                "Avanzado": 177,
+                "Medio": 240,
+                "Básico": 245,
+                "Crítico": 134,
+                "Total": 796
+            }
+        ],
+        "3°": [
+            {
+                "Número": "P130",
+                "Escuela": "INMACULADO CORAZÓN D",
+                "Avanzado": 8,
+                "Medio": 5,
+                "Básico": 18,
+                "Crítico": 16,
+                "Total": 47
+            },
+            {
+                "Número": "P013",
+                "Escuela": "SAN PEDRO NOLASCO",
+                "Avanzado": 10,
+                "Medio": 25,
+                "Básico": 20,
+                "Crítico": 14,
+                "Total": 69
+            },
+            {
+                "Número": "P003",
+                "Escuela": "SAN BUENAVENTURA",
+                "Avanzado": 13,
+                "Medio": 18,
+                "Básico": 8,
+                "Crítico": 7,
+                "Total": 46
+            },
+            {
+                "Número": "P001",
+                "Escuela": "DON BOSCO",
+                "Avanzado": 19,
+                "Medio": 18,
+                "Básico": 19,
+                "Crítico": 9,
+                "Total": 65
+            },
+            {
+                "Número": "P162",
+                "Escuela": "INSTITUTO CRECER",
+                "Avanzado": 13,
+                "Medio": 10,
+                "Básico": 3,
+                "Crítico": 4,
+                "Total": 30
+            },
+            {
+                "Número": "P010",
+                "Escuela": "SAN LUIS GONZAGA",
+                "Avanzado": 13,
+                "Medio": 9,
+                "Básico": 4,
+                "Crítico": 2,
+                "Total": 28
+            },
+            {
+                "Número": "P002",
+                "Escuela": "MARÍA AUXILIADORA",
+                "Avanzado": 21,
+                "Medio": 17,
+                "Básico": 22,
+                "Crítico": 4,
+                "Total": 64
+            },
+            {
+                "Número": "P068",
+                "Escuela": "NTRA. SRA. DEL R. DE",
+                "Avanzado": 14,
+                "Medio": 21,
+                "Básico": 21,
+                "Crítico": 3,
+                "Total": 59
+            },
+            {
+                "Número": "P079",
+                "Escuela": "CORAZÓN DE MARÍA",
+                "Avanzado": 12,
+                "Medio": 33,
+                "Básico": 11,
+                "Crítico": 3,
+                "Total": 59
+            },
+            {
+                "Número": "P059",
+                "Escuela": "INSTITUTO ADVENTISTA",
+                "Avanzado": 9,
+                "Medio": 11,
+                "Básico": 4,
+                "Crítico": 1,
+                "Total": 25
+            },
+            {
+                "Número": "P008",
+                "Escuela": "SANTO TOMÁS DE AQUIN",
+                "Avanzado": 25,
+                "Medio": 21,
+                "Básico": 7,
+                "Crítico": 2,
+                "Total": 55
+            },
+            {
+                "Número": "P046",
+                "Escuela": "I.C.E.I.",
+                "Avanzado": 19,
+                "Medio": 22,
+                "Básico": 14,
+                "Crítico": 2,
+                "Total": 57
+            },
+            {
+                "Número": "P039",
+                "Escuela": "INSTITUTO NADINO",
+                "Avanzado": 25,
+                "Medio": 10,
+                "Básico": 15,
+                "Crítico": 1,
+                "Total": 51
+            },
+            {
+                "Número": "P041",
+                "Escuela": "DR. MAX NORDAU",
+                "Avanzado": 6,
+                "Medio": 3,
+                "Básico": 2,
+                "Crítico": 0,
+                "Total": 11
+            },
+            {
+                "Número": "P063",
+                "Escuela": "ESCUELA CRISTIANA EV",
+                "Avanzado": 11,
+                "Medio": 5,
+                "Básico": 2,
+                "Crítico": 0,
+                "Total": 18
+            },
+            {
+                "Número": "P016",
+                "Escuela": "SAN ANDRÉS",
+                "Avanzado": 21,
+                "Medio": 17,
+                "Básico": 9,
+                "Crítico": 0,
+                "Total": 47
+            },
+            {
+                "Número": "P131",
+                "Escuela": "FUNDACIÓN RICART (NO",
+                "Avanzado": 11,
+                "Medio": 15,
+                "Básico": 8,
+                "Crítico": 0,
+                "Total": 34
+            },
+            {
+                "Número": "P136",
+                "Escuela": "S.T.R.O.B.E.R.I.",
+                "Avanzado": 8,
+                "Medio": 5,
+                "Básico": 2,
+                "Crítico": 0,
+                "Total": 15
+            },
+            {
+                "Número": "",
+                "Escuela": "TOTAL",
+                "Avanzado": 258,
+                "Medio": 265,
+                "Básico": 189,
+                "Crítico": 68,
+                "Total": 780
+            }
+        ],
+        "4°": [
+            {
+                "Número": "P130",
+                "Escuela": "INMACULADO CORAZÓN D",
+                "Avanzado": 2,
+                "Medio": 16,
+                "Básico": 24,
+                "Crítico": 8,
+                "Total": 50
+            },
+            {
+                "Número": "P039",
+                "Escuela": "INSTITUTO NADINO",
+                "Avanzado": 15,
+                "Medio": 20,
+                "Básico": 11,
+                "Crítico": 5,
+                "Total": 51
+            },
+            {
+                "Número": "P003",
+                "Escuela": "SAN BUENAVENTURA",
+                "Avanzado": 14,
+                "Medio": 18,
+                "Básico": 15,
+                "Crítico": 5,
+                "Total": 52
+            },
+            {
+                "Número": "P059",
+                "Escuela": "INSTITUTO ADVENTISTA",
+                "Avanzado": 4,
+                "Medio": 7,
+                "Básico": 8,
+                "Crítico": 2,
+                "Total": 21
+            },
+            {
+                "Número": "P162",
+                "Escuela": "INSTITUTO CRECER",
+                "Avanzado": 13,
+                "Medio": 9,
+                "Básico": 9,
+                "Crítico": 3,
+                "Total": 34
+            },
+            {
+                "Número": "P008",
+                "Escuela": "SANTO TOMÁS DE AQUIN",
+                "Avanzado": 16,
+                "Medio": 19,
+                "Básico": 7,
+                "Crítico": 3,
+                "Total": 45
+            },
+            {
+                "Número": "P010",
+                "Escuela": "SAN LUIS GONZAGA",
+                "Avanzado": 8,
+                "Medio": 18,
+                "Básico": 2,
+                "Crítico": 2,
+                "Total": 30
+            },
+            {
+                "Número": "P041",
+                "Escuela": "DR. MAX NORDAU",
+                "Avanzado": 6,
+                "Medio": 9,
+                "Básico": 0,
+                "Crítico": 1,
+                "Total": 16
+            },
+            {
+                "Número": "P001",
+                "Escuela": "DON BOSCO",
+                "Avanzado": 27,
+                "Medio": 28,
+                "Básico": 23,
+                "Crítico": 5,
+                "Total": 83
+            },
+            {
+                "Número": "P068",
+                "Escuela": "NTRA. SRA. DEL R. DE",
+                "Avanzado": 9,
+                "Medio": 29,
+                "Básico": 13,
+                "Crítico": 3,
+                "Total": 54
+            },
+            {
+                "Número": "P002",
+                "Escuela": "MARÍA AUXILIADORA",
+                "Avanzado": 21,
+                "Medio": 20,
+                "Básico": 15,
+                "Crítico": 3,
+                "Total": 59
+            },
+            {
+                "Número": "P079",
+                "Escuela": "CORAZÓN DE MARÍA",
+                "Avanzado": 13,
+                "Medio": 19,
+                "Básico": 13,
+                "Crítico": 2,
+                "Total": 47
+            },
+            {
+                "Número": "P016",
+                "Escuela": "SAN ANDRÉS",
+                "Avanzado": 26,
+                "Medio": 21,
+                "Básico": 1,
+                "Crítico": 2,
+                "Total": 50
+            },
+            {
+                "Número": "P013",
+                "Escuela": "SAN PEDRO NOLASCO",
+                "Avanzado": 17,
+                "Medio": 32,
+                "Básico": 19,
+                "Crítico": 2,
+                "Total": 70
+            },
+            {
+                "Número": "P046",
+                "Escuela": "I.C.E.I.",
+                "Avanzado": 29,
+                "Medio": 19,
+                "Básico": 9,
+                "Crítico": 0,
+                "Total": 57
+            },
+            {
+                "Número": "P063",
+                "Escuela": "ESCUELA CRISTIANA EV",
+                "Avanzado": 10,
+                "Medio": 11,
+                "Básico": 7,
+                "Crítico": 0,
+                "Total": 28
+            },
+            {
+                "Número": "P131",
+                "Escuela": "FUNDACIÓN RICART (NO",
+                "Avanzado": 20,
+                "Medio": 13,
+                "Básico": 10,
+                "Crítico": 0,
+                "Total": 43
+            },
+            {
+                "Número": "P136",
+                "Escuela": "S.T.R.O.B.E.R.I.",
+                "Avanzado": 1,
+                "Medio": 9,
+                "Básico": 3,
+                "Crítico": 0,
+                "Total": 13
+            },
+            {
+                "Número": "",
+                "Escuela": "TOTAL",
+                "Avanzado": 251,
+                "Medio": 317,
+                "Básico": 189,
+                "Crítico": 46,
+                "Total": 803
+            }
+        ],
+        "5°": [
+            {
+                "Número": "P130",
+                "Escuela": "INMACULADO CORAZÓN D",
+                "Avanzado": 6,
+                "Medio": 28,
+                "Básico": 17,
+                "Crítico": 9,
+                "Total": 60
+            },
+            {
+                "Número": "P013",
+                "Escuela": "SAN PEDRO NOLASCO",
+                "Avanzado": 30,
+                "Medio": 32,
+                "Básico": 19,
+                "Crítico": 5,
+                "Total": 86
+            },
+            {
+                "Número": "P039",
+                "Escuela": "INSTITUTO NADINO",
+                "Avanzado": 23,
+                "Medio": 18,
+                "Básico": 10,
+                "Crítico": 3,
+                "Total": 54
+            },
+            {
+                "Número": "P041",
+                "Escuela": "DR. MAX NORDAU",
+                "Avanzado": 10,
+                "Medio": 10,
+                "Básico": 0,
+                "Crítico": 1,
+                "Total": 21
+            },
+            {
+                "Número": "P059",
+                "Escuela": "INSTITUTO ADVENTISTA",
+                "Avanzado": 6,
+                "Medio": 11,
+                "Básico": 4,
+                "Crítico": 1,
+                "Total": 22
+            },
+            {
+                "Número": "P008",
+                "Escuela": "SANTO TOMÁS DE AQUIN",
+                "Avanzado": 20,
+                "Medio": 19,
+                "Básico": 6,
+                "Crítico": 2,
+                "Total": 47
+            },
+            {
+                "Número": "P136",
+                "Escuela": "S.T.R.O.B.E.R.I.",
+                "Avanzado": 8,
+                "Medio": 14,
+                "Básico": 5,
+                "Crítico": 1,
+                "Total": 28
+            },
+            {
+                "Número": "P162",
+                "Escuela": "INSTITUTO CRECER",
+                "Avanzado": 10,
+                "Medio": 12,
+                "Básico": 7,
+                "Crítico": 1,
+                "Total": 30
+            },
+            {
+                "Número": "P068",
+                "Escuela": "NTRA. SRA. DEL R. DE",
+                "Avanzado": 14,
+                "Medio": 33,
+                "Básico": 10,
+                "Crítico": 1,
+                "Total": 58
+            },
+            {
+                "Número": "P002",
+                "Escuela": "MARÍA AUXILIADORA",
+                "Avanzado": 17,
+                "Medio": 22,
+                "Básico": 18,
+                "Crítico": 1,
+                "Total": 58
+            },
+            {
+                "Número": "P063",
+                "Escuela": "ESCUELA CRISTIANA EV",
+                "Avanzado": 9,
+                "Medio": 12,
+                "Básico": 7,
+                "Crítico": 0,
+                "Total": 28
+            },
+            {
+                "Número": "P003",
+                "Escuela": "SAN BUENAVENTURA",
+                "Avanzado": 27,
+                "Medio": 15,
+                "Básico": 12,
+                "Crítico": 0,
+                "Total": 54
+            },
+            {
+                "Número": "P079",
+                "Escuela": "CORAZÓN DE MARÍA",
+                "Avanzado": 15,
+                "Medio": 28,
+                "Básico": 17,
+                "Crítico": 0,
+                "Total": 60
+            },
+            {
+                "Número": "P046",
+                "Escuela": "I.C.E.I.",
+                "Avanzado": 37,
+                "Medio": 14,
+                "Básico": 4,
+                "Crítico": 0,
+                "Total": 55
+            },
+            {
+                "Número": "P131",
+                "Escuela": "FUNDACIÓN RICART (NO",
+                "Avanzado": 15,
+                "Medio": 14,
+                "Básico": 1,
+                "Crítico": 0,
+                "Total": 30
+            },
+            {
+                "Número": "P016",
+                "Escuela": "SAN ANDRÉS",
+                "Avanzado": 35,
+                "Medio": 22,
+                "Básico": 5,
+                "Crítico": 0,
+                "Total": 62
+            },
+            {
+                "Número": "P010",
+                "Escuela": "SAN LUIS GONZAGA",
+                "Avanzado": 11,
+                "Medio": 12,
+                "Básico": 7,
+                "Crítico": 0,
+                "Total": 30
+            },
+            {
+                "Número": "P001",
+                "Escuela": "DON BOSCO",
+                "Avanzado": 38,
+                "Medio": 25,
+                "Básico": 20,
+                "Crítico": 0,
+                "Total": 83
+            },
+            {
+                "Número": "",
+                "Escuela": "TOTAL",
+                "Avanzado": 331,
+                "Medio": 341,
+                "Básico": 169,
+                "Crítico": 25,
+                "Total": 866
+            }
+        ],
+        "6°": [
+            {
+                "Número": "P068",
+                "Escuela": "NTRA. SRA. DEL R. DE",
+                "Avanzado": 16,
+                "Medio": 22,
+                "Básico": 16,
+                "Crítico": 6,
+                "Total": 60
+            },
+            {
+                "Número": "P130",
+                "Escuela": "INMACULADO CORAZÓN D",
+                "Avanzado": 9,
+                "Medio": 17,
+                "Básico": 20,
+                "Crítico": 5,
+                "Total": 51
+            },
+            {
+                "Número": "P003",
+                "Escuela": "SAN BUENAVENTURA",
+                "Avanzado": 20,
+                "Medio": 18,
+                "Básico": 8,
+                "Crítico": 4,
+                "Total": 50
+            },
+            {
+                "Número": "P001",
+                "Escuela": "DON BOSCO",
+                "Avanzado": 27,
+                "Medio": 35,
+                "Básico": 15,
+                "Crítico": 6,
+                "Total": 83
+            },
+            {
+                "Número": "P002",
+                "Escuela": "MARÍA AUXILIADORA",
+                "Avanzado": 21,
+                "Medio": 22,
+                "Básico": 18,
+                "Crítico": 4,
+                "Total": 65
+            },
+            {
+                "Número": "P041",
+                "Escuela": "DR. MAX NORDAU",
+                "Avanzado": 9,
+                "Medio": 8,
+                "Básico": 1,
+                "Crítico": 1,
+                "Total": 19
+            },
+            {
+                "Número": "P010",
+                "Escuela": "SAN LUIS GONZAGA",
+                "Avanzado": 17,
+                "Medio": 7,
+                "Básico": 4,
+                "Crítico": 1,
+                "Total": 29
+            },
+            {
+                "Número": "P079",
+                "Escuela": "CORAZÓN DE MARÍA",
+                "Avanzado": 15,
+                "Medio": 33,
+                "Básico": 15,
+                "Crítico": 2,
+                "Total": 65
+            },
+            {
+                "Número": "P013",
+                "Escuela": "SAN PEDRO NOLASCO",
+                "Avanzado": 26,
+                "Medio": 30,
+                "Básico": 13,
+                "Crítico": 2,
+                "Total": 71
+            },
+            {
+                "Número": "P008",
+                "Escuela": "SANTO TOMÁS DE AQUIN",
+                "Avanzado": 26,
+                "Medio": 14,
+                "Básico": 2,
+                "Crítico": 1,
+                "Total": 43
+            },
+            {
+                "Número": "P039",
+                "Escuela": "INSTITUTO NADINO",
+                "Avanzado": 19,
+                "Medio": 21,
+                "Básico": 13,
+                "Crítico": 1,
+                "Total": 54
+            },
+            {
+                "Número": "P016",
+                "Escuela": "SAN ANDRÉS",
+                "Avanzado": 37,
+                "Medio": 7,
+                "Básico": 1,
+                "Crítico": 0,
+                "Total": 45
+            },
+            {
+                "Número": "P046",
+                "Escuela": "I.C.E.I.",
+                "Avanzado": 35,
+                "Medio": 18,
+                "Básico": 5,
+                "Crítico": 0,
+                "Total": 58
+            },
+            {
+                "Número": "P063",
+                "Escuela": "ESCUELA CRISTIANA EV",
+                "Avanzado": 12,
+                "Medio": 14,
+                "Básico": 2,
+                "Crítico": 0,
+                "Total": 28
+            },
+            {
+                "Número": "P131",
+                "Escuela": "FUNDACIÓN RICART (NO",
+                "Avanzado": 47,
+                "Medio": 2,
+                "Básico": 1,
+                "Crítico": 0,
+                "Total": 50
+            },
+            {
+                "Número": "P136",
+                "Escuela": "S.T.R.O.B.E.R.I.",
+                "Avanzado": 9,
+                "Medio": 6,
+                "Básico": 7,
+                "Crítico": 0,
+                "Total": 22
+            },
+            {
+                "Número": "P162",
+                "Escuela": "INSTITUTO CRECER",
+                "Avanzado": 15,
+                "Medio": 5,
+                "Básico": 7,
+                "Crítico": 0,
+                "Total": 27
+            },
+            {
+                "Número": "P059",
+                "Escuela": "INSTITUTO ADVENTISTA",
+                "Avanzado": 2,
+                "Medio": 6,
+                "Básico": 2,
+                "Crítico": 0,
+                "Total": 10
+            },
+            {
+                "Número": "",
+                "Escuela": "TOTAL",
+                "Avanzado": 362,
+                "Medio": 285,
+                "Básico": 150,
+                "Crítico": 33,
+                "Total": 830
+            }
+        ],
+        "7°": [
+            {
+                "Número": "P130",
+                "Escuela": "INMACULADO CORAZÓN D",
+                "Avanzado": 4,
+                "Medio": 21,
+                "Básico": 23,
+                "Crítico": 10,
+                "Total": 58
+            },
+            {
+                "Número": "P136",
+                "Escuela": "S.T.R.O.B.E.R.I.",
+                "Avanzado": 8,
+                "Medio": 18,
+                "Básico": 1,
+                "Crítico": 4,
+                "Total": 31
+            },
+            {
+                "Número": "P001",
+                "Escuela": "DON BOSCO",
+                "Avanzado": 19,
+                "Medio": 45,
+                "Básico": 15,
+                "Crítico": 6,
+                "Total": 85
+            },
+            {
+                "Número": "P002",
+                "Escuela": "MARÍA AUXILIADORA",
+                "Avanzado": 7,
+                "Medio": 35,
+                "Básico": 18,
+                "Crítico": 3,
+                "Total": 63
+            },
+            {
+                "Número": "P010",
+                "Escuela": "SAN LUIS GONZAGA",
+                "Avanzado": 4,
+                "Medio": 16,
+                "Básico": 2,
+                "Crítico": 1,
+                "Total": 23
+            },
+            {
+                "Número": "P013",
+                "Escuela": "SAN PEDRO NOLASCO",
+                "Avanzado": 28,
+                "Medio": 48,
+                "Básico": 10,
+                "Crítico": 3,
+                "Total": 89
+            },
+            {
+                "Número": "P003",
+                "Escuela": "SAN BUENAVENTURA",
+                "Avanzado": 19,
+                "Medio": 36,
+                "Básico": 8,
+                "Crítico": 2,
+                "Total": 65
+            },
+            {
+                "Número": "P039",
+                "Escuela": "INSTITUTO NADINO",
+                "Avanzado": 5,
+                "Medio": 44,
+                "Básico": 9,
+                "Crítico": 1,
+                "Total": 59
+            },
+            {
+                "Número": "P068",
+                "Escuela": "NTRA. SRA. DEL R. DE",
+                "Avanzado": 11,
+                "Medio": 33,
+                "Básico": 15,
+                "Crítico": 1,
+                "Total": 60
+            },
+            {
+                "Número": "P016",
+                "Escuela": "SAN ANDRÉS",
+                "Avanzado": 12,
+                "Medio": 30,
+                "Básico": 9,
+                "Crítico": 0,
+                "Total": 51
+            },
+            {
+                "Número": "P041",
+                "Escuela": "DR. MAX NORDAU",
+                "Avanzado": 12,
+                "Medio": 8,
+                "Básico": 0,
+                "Crítico": 0,
+                "Total": 20
+            },
+            {
+                "Número": "P063",
+                "Escuela": "ESCUELA CRISTIANA EV",
+                "Avanzado": 8,
+                "Medio": 17,
+                "Básico": 2,
+                "Crítico": 0,
+                "Total": 27
+            },
+            {
+                "Número": "P079",
+                "Escuela": "CORAZÓN DE MARÍA",
+                "Avanzado": 45,
+                "Medio": 13,
+                "Básico": 1,
+                "Crítico": 0,
+                "Total": 59
+            },
+            {
+                "Número": "P131",
+                "Escuela": "FUNDACIÓN RICART (NO",
+                "Avanzado": 23,
+                "Medio": 11,
+                "Básico": 2,
+                "Crítico": 0,
+                "Total": 36
+            },
+            {
+                "Número": "P008",
+                "Escuela": "SANTO TOMÁS DE AQUIN",
+                "Avanzado": 17,
+                "Medio": 23,
+                "Básico": 5,
+                "Crítico": 0,
+                "Total": 45
+            },
+            {
+                "Número": "P162",
+                "Escuela": "INSTITUTO CRECER",
+                "Avanzado": 14,
+                "Medio": 16,
+                "Básico": 1,
+                "Crítico": 0,
+                "Total": 31
+            },
+            {
+                "Número": "P046",
+                "Escuela": "I.C.E.I.",
+                "Avanzado": 32,
+                "Medio": 23,
+                "Básico": 0,
+                "Crítico": 0,
+                "Total": 55
+            },
+            {
+                "Número": "",
+                "Escuela": "TOTAL",
+                "Avanzado": 268,
+                "Medio": 437,
+                "Básico": 121,
+                "Crítico": 31,
+                "Total": 857
+            }
+        ]
+    },
+    "tabla_data_dict_Porcentajes_de_estudiantes_censados_por_curso_SEGÚN_NIVEL_DE_DESEMPEÑO": {
+        "2°": [
+            {
+                "Número": "P130",
+                "Avanzado": 4.0,
+                "Medio": 8.0,
+                "Básico": 12.0,
+                "Crítico": 76.0
+            },
+            {
+                "Número": "P162",
+                "Avanzado": 21.88,
+                "Medio": 15.62,
+                "Básico": 25.0,
+                "Crítico": 37.5
+            },
+            {
+                "Número": "P001",
+                "Avanzado": 18.42,
+                "Medio": 23.68,
+                "Básico": 27.63,
+                "Crítico": 30.26
+            },
+            {
+                "Número": "P068",
+                "Avanzado": 13.04,
+                "Medio": 21.74,
+                "Básico": 41.3,
+                "Crítico": 23.91
+            },
+            {
+                "Número": "P013",
+                "Avanzado": 23.73,
+                "Medio": 20.34,
+                "Básico": 33.9,
+                "Crítico": 22.03
+            },
+            {
+                "Número": "P003",
+                "Avanzado": 12.77,
+                "Medio": 23.4,
+                "Básico": 42.55,
+                "Crítico": 21.28
+            },
+            {
+                "Número": "P008",
+                "Avanzado": 26.83,
+                "Medio": 26.83,
+                "Básico": 29.27,
+                "Crítico": 17.07
+            },
+            {
+                "Número": "P002",
+                "Avanzado": 17.54,
+                "Medio": 28.07,
+                "Básico": 40.35,
+                "Crítico": 14.04
+            },
+            {
+                "Número": "P039",
+                "Avanzado": 26.0,
+                "Medio": 26.0,
+                "Básico": 38.0,
+                "Crítico": 10.0
+            },
+            {
+                "Número": "P041",
+                "Avanzado": 58.33,
+                "Medio": 25.0,
+                "Básico": 8.33,
+                "Crítico": 8.33
+            },
+            {
+                "Número": "P136",
+                "Avanzado": 41.67,
+                "Medio": 25.0,
+                "Básico": 25.0,
+                "Crítico": 8.33
+            },
+            {
+                "Número": "P010",
+                "Avanzado": 36.36,
+                "Medio": 29.09,
+                "Básico": 30.91,
+                "Crítico": 3.64
+            },
+            {
+                "Número": "P046",
+                "Avanzado": 25.0,
+                "Medio": 39.29,
+                "Básico": 32.14,
+                "Crítico": 3.57
+            },
+            {
+                "Número": "P016",
+                "Avanzado": 21.28,
+                "Medio": 53.19,
+                "Básico": 23.4,
+                "Crítico": 2.13
+            },
+            {
+                "Número": "P063",
+                "Avanzado": 24.0,
+                "Medio": 60.0,
+                "Básico": 16.0,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P079",
+                "Avanzado": 18.52,
+                "Medio": 46.3,
+                "Básico": 35.19,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P131",
+                "Avanzado": 28.57,
+                "Medio": 41.07,
+                "Básico": 30.36,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P059",
+                "Avanzado": 28.57,
+                "Medio": 38.1,
+                "Básico": 33.33,
+                "Crítico": 0.0
+            }
+        ],
+        "3°": [
+            {
+                "Número": "P130",
+                "Avanzado": 17.02,
+                "Medio": 10.64,
+                "Básico": 38.3,
+                "Crítico": 34.04
+            },
+            {
+                "Número": "P013",
+                "Avanzado": 14.49,
+                "Medio": 36.23,
+                "Básico": 28.99,
+                "Crítico": 20.29
+            },
+            {
+                "Número": "P003",
+                "Avanzado": 28.26,
+                "Medio": 39.13,
+                "Básico": 17.39,
+                "Crítico": 15.22
+            },
+            {
+                "Número": "P001",
+                "Avanzado": 29.23,
+                "Medio": 27.69,
+                "Básico": 29.23,
+                "Crítico": 13.85
+            },
+            {
+                "Número": "P162",
+                "Avanzado": 43.33,
+                "Medio": 33.33,
+                "Básico": 10.0,
+                "Crítico": 13.33
+            },
+            {
+                "Número": "P010",
+                "Avanzado": 46.43,
+                "Medio": 32.14,
+                "Básico": 14.29,
+                "Crítico": 7.14
+            },
+            {
+                "Número": "P002",
+                "Avanzado": 32.81,
+                "Medio": 26.56,
+                "Básico": 34.38,
+                "Crítico": 6.25
+            },
+            {
+                "Número": "P068",
+                "Avanzado": 23.73,
+                "Medio": 35.59,
+                "Básico": 35.59,
+                "Crítico": 5.08
+            },
+            {
+                "Número": "P079",
+                "Avanzado": 20.34,
+                "Medio": 55.93,
+                "Básico": 18.64,
+                "Crítico": 5.08
+            },
+            {
+                "Número": "P059",
+                "Avanzado": 36.0,
+                "Medio": 44.0,
+                "Básico": 16.0,
+                "Crítico": 4.0
+            },
+            {
+                "Número": "P008",
+                "Avanzado": 45.45,
+                "Medio": 38.18,
+                "Básico": 12.73,
+                "Crítico": 3.64
+            },
+            {
+                "Número": "P046",
+                "Avanzado": 33.33,
+                "Medio": 38.6,
+                "Básico": 24.56,
+                "Crítico": 3.51
+            },
+            {
+                "Número": "P039",
+                "Avanzado": 49.02,
+                "Medio": 19.61,
+                "Básico": 29.41,
+                "Crítico": 1.96
+            },
+            {
+                "Número": "P041",
+                "Avanzado": 54.55,
+                "Medio": 27.27,
+                "Básico": 18.18,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P063",
+                "Avanzado": 61.11,
+                "Medio": 27.78,
+                "Básico": 11.11,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P016",
+                "Avanzado": 44.68,
+                "Medio": 36.17,
+                "Básico": 19.15,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P131",
+                "Avanzado": 32.35,
+                "Medio": 44.12,
+                "Básico": 23.53,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P136",
+                "Avanzado": 53.33,
+                "Medio": 33.33,
+                "Básico": 13.33,
+                "Crítico": 0.0
+            }
+        ],
+        "4°": [
+            {
+                "Número": "P130",
+                "Avanzado": 4.0,
+                "Medio": 32.0,
+                "Básico": 48.0,
+                "Crítico": 16.0
+            },
+            {
+                "Número": "P039",
+                "Avanzado": 29.41,
+                "Medio": 39.22,
+                "Básico": 21.57,
+                "Crítico": 9.8
+            },
+            {
+                "Número": "P003",
+                "Avanzado": 26.92,
+                "Medio": 34.62,
+                "Básico": 28.85,
+                "Crítico": 9.62
+            },
+            {
+                "Número": "P059",
+                "Avanzado": 19.05,
+                "Medio": 33.33,
+                "Básico": 38.1,
+                "Crítico": 9.52
+            },
+            {
+                "Número": "P162",
+                "Avanzado": 38.24,
+                "Medio": 26.47,
+                "Básico": 26.47,
+                "Crítico": 8.82
+            },
+            {
+                "Número": "P008",
+                "Avanzado": 35.56,
+                "Medio": 42.22,
+                "Básico": 15.56,
+                "Crítico": 6.67
+            },
+            {
+                "Número": "P010",
+                "Avanzado": 26.67,
+                "Medio": 60.0,
+                "Básico": 6.67,
+                "Crítico": 6.67
+            },
+            {
+                "Número": "P041",
+                "Avanzado": 37.5,
+                "Medio": 56.25,
+                "Básico": 0.0,
+                "Crítico": 6.25
+            },
+            {
+                "Número": "P001",
+                "Avanzado": 32.53,
+                "Medio": 33.73,
+                "Básico": 27.71,
+                "Crítico": 6.02
+            },
+            {
+                "Número": "P068",
+                "Avanzado": 16.67,
+                "Medio": 53.7,
+                "Básico": 24.07,
+                "Crítico": 5.56
+            },
+            {
+                "Número": "P002",
+                "Avanzado": 35.59,
+                "Medio": 33.9,
+                "Básico": 25.42,
+                "Crítico": 5.08
+            },
+            {
+                "Número": "P079",
+                "Avanzado": 27.66,
+                "Medio": 40.43,
+                "Básico": 27.66,
+                "Crítico": 4.26
+            },
+            {
+                "Número": "P016",
+                "Avanzado": 52.0,
+                "Medio": 42.0,
+                "Básico": 2.0,
+                "Crítico": 4.0
+            },
+            {
+                "Número": "P013",
+                "Avanzado": 24.29,
+                "Medio": 45.71,
+                "Básico": 27.14,
+                "Crítico": 2.86
+            },
+            {
+                "Número": "P046",
+                "Avanzado": 50.88,
+                "Medio": 33.33,
+                "Básico": 15.79,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P063",
+                "Avanzado": 35.71,
+                "Medio": 39.29,
+                "Básico": 25.0,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P131",
+                "Avanzado": 46.51,
+                "Medio": 30.23,
+                "Básico": 23.26,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P136",
+                "Avanzado": 7.69,
+                "Medio": 69.23,
+                "Básico": 23.08,
+                "Crítico": 0.0
+            }
+        ],
+        "5°": [
+            {
+                "Número": "P130",
+                "Avanzado": 10.0,
+                "Medio": 46.67,
+                "Básico": 28.33,
+                "Crítico": 15.0
+            },
+            {
+                "Número": "P013",
+                "Avanzado": 34.88,
+                "Medio": 37.21,
+                "Básico": 22.09,
+                "Crítico": 5.81
+            },
+            {
+                "Número": "P039",
+                "Avanzado": 42.59,
+                "Medio": 33.33,
+                "Básico": 18.52,
+                "Crítico": 5.56
+            },
+            {
+                "Número": "P041",
+                "Avanzado": 47.62,
+                "Medio": 47.62,
+                "Básico": 0.0,
+                "Crítico": 4.76
+            },
+            {
+                "Número": "P059",
+                "Avanzado": 27.27,
+                "Medio": 50.0,
+                "Básico": 18.18,
+                "Crítico": 4.55
+            },
+            {
+                "Número": "P008",
+                "Avanzado": 42.55,
+                "Medio": 40.43,
+                "Básico": 12.77,
+                "Crítico": 4.26
+            },
+            {
+                "Número": "P136",
+                "Avanzado": 28.57,
+                "Medio": 50.0,
+                "Básico": 17.86,
+                "Crítico": 3.57
+            },
+            {
+                "Número": "P162",
+                "Avanzado": 33.33,
+                "Medio": 40.0,
+                "Básico": 23.33,
+                "Crítico": 3.33
+            },
+            {
+                "Número": "P068",
+                "Avanzado": 24.14,
+                "Medio": 56.9,
+                "Básico": 17.24,
+                "Crítico": 1.72
+            },
+            {
+                "Número": "P002",
+                "Avanzado": 29.31,
+                "Medio": 37.93,
+                "Básico": 31.03,
+                "Crítico": 1.72
+            },
+            {
+                "Número": "P063",
+                "Avanzado": 32.14,
+                "Medio": 42.86,
+                "Básico": 25.0,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P003",
+                "Avanzado": 50.0,
+                "Medio": 27.78,
+                "Básico": 22.22,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P079",
+                "Avanzado": 25.0,
+                "Medio": 46.67,
+                "Básico": 28.33,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P046",
+                "Avanzado": 67.27,
+                "Medio": 25.45,
+                "Básico": 7.27,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P131",
+                "Avanzado": 50.0,
+                "Medio": 46.67,
+                "Básico": 3.33,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P016",
+                "Avanzado": 56.45,
+                "Medio": 35.48,
+                "Básico": 8.06,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P010",
+                "Avanzado": 36.67,
+                "Medio": 40.0,
+                "Básico": 23.33,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P001",
+                "Avanzado": 45.78,
+                "Medio": 30.12,
+                "Básico": 24.1,
+                "Crítico": 0.0
+            }
+        ],
+        "6°": [
+            {
+                "Número": "P068",
+                "Avanzado": 26.67,
+                "Medio": 36.67,
+                "Básico": 26.67,
+                "Crítico": 10.0
+            },
+            {
+                "Número": "P130",
+                "Avanzado": 17.65,
+                "Medio": 33.33,
+                "Básico": 39.22,
+                "Crítico": 9.8
+            },
+            {
+                "Número": "P003",
+                "Avanzado": 40.0,
+                "Medio": 36.0,
+                "Básico": 16.0,
+                "Crítico": 8.0
+            },
+            {
+                "Número": "P001",
+                "Avanzado": 32.53,
+                "Medio": 42.17,
+                "Básico": 18.07,
+                "Crítico": 7.23
+            },
+            {
+                "Número": "P002",
+                "Avanzado": 32.31,
+                "Medio": 33.85,
+                "Básico": 27.69,
+                "Crítico": 6.15
+            },
+            {
+                "Número": "P041",
+                "Avanzado": 47.37,
+                "Medio": 42.11,
+                "Básico": 5.26,
+                "Crítico": 5.26
+            },
+            {
+                "Número": "P010",
+                "Avanzado": 58.62,
+                "Medio": 24.14,
+                "Básico": 13.79,
+                "Crítico": 3.45
+            },
+            {
+                "Número": "P079",
+                "Avanzado": 23.08,
+                "Medio": 50.77,
+                "Básico": 23.08,
+                "Crítico": 3.08
+            },
+            {
+                "Número": "P013",
+                "Avanzado": 36.62,
+                "Medio": 42.25,
+                "Básico": 18.31,
+                "Crítico": 2.82
+            },
+            {
+                "Número": "P008",
+                "Avanzado": 60.47,
+                "Medio": 32.56,
+                "Básico": 4.65,
+                "Crítico": 2.33
+            },
+            {
+                "Número": "P039",
+                "Avanzado": 35.19,
+                "Medio": 38.89,
+                "Básico": 24.07,
+                "Crítico": 1.85
+            },
+            {
+                "Número": "P016",
+                "Avanzado": 82.22,
+                "Medio": 15.56,
+                "Básico": 2.22,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P046",
+                "Avanzado": 60.34,
+                "Medio": 31.03,
+                "Básico": 8.62,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P063",
+                "Avanzado": 42.86,
+                "Medio": 50.0,
+                "Básico": 7.14,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P131",
+                "Avanzado": 94.0,
+                "Medio": 4.0,
+                "Básico": 2.0,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P136",
+                "Avanzado": 40.91,
+                "Medio": 27.27,
+                "Básico": 31.82,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P162",
+                "Avanzado": 55.56,
+                "Medio": 18.52,
+                "Básico": 25.93,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P059",
+                "Avanzado": 20.0,
+                "Medio": 60.0,
+                "Básico": 20.0,
+                "Crítico": 0.0
+            }
+        ],
+        "7°": [
+            {
+                "Número": "P130",
+                "Avanzado": 6.9,
+                "Medio": 36.21,
+                "Básico": 39.66,
+                "Crítico": 17.24
+            },
+            {
+                "Número": "P136",
+                "Avanzado": 25.81,
+                "Medio": 58.06,
+                "Básico": 3.23,
+                "Crítico": 12.9
+            },
+            {
+                "Número": "P001",
+                "Avanzado": 22.35,
+                "Medio": 52.94,
+                "Básico": 17.65,
+                "Crítico": 7.06
+            },
+            {
+                "Número": "P002",
+                "Avanzado": 11.11,
+                "Medio": 55.56,
+                "Básico": 28.57,
+                "Crítico": 4.76
+            },
+            {
+                "Número": "P010",
+                "Avanzado": 17.39,
+                "Medio": 69.57,
+                "Básico": 8.7,
+                "Crítico": 4.35
+            },
+            {
+                "Número": "P013",
+                "Avanzado": 31.46,
+                "Medio": 53.93,
+                "Básico": 11.24,
+                "Crítico": 3.37
+            },
+            {
+                "Número": "P003",
+                "Avanzado": 29.23,
+                "Medio": 55.38,
+                "Básico": 12.31,
+                "Crítico": 3.08
+            },
+            {
+                "Número": "P039",
+                "Avanzado": 8.47,
+                "Medio": 74.58,
+                "Básico": 15.25,
+                "Crítico": 1.69
+            },
+            {
+                "Número": "P068",
+                "Avanzado": 18.33,
+                "Medio": 55.0,
+                "Básico": 25.0,
+                "Crítico": 1.67
+            },
+            {
+                "Número": "P016",
+                "Avanzado": 23.53,
+                "Medio": 58.82,
+                "Básico": 17.65,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P041",
+                "Avanzado": 60.0,
+                "Medio": 40.0,
+                "Básico": 0.0,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P063",
+                "Avanzado": 29.63,
+                "Medio": 62.96,
+                "Básico": 7.41,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P079",
+                "Avanzado": 76.27,
+                "Medio": 22.03,
+                "Básico": 1.69,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P131",
+                "Avanzado": 63.89,
+                "Medio": 30.56,
+                "Básico": 5.56,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P008",
+                "Avanzado": 37.78,
+                "Medio": 51.11,
+                "Básico": 11.11,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P162",
+                "Avanzado": 45.16,
+                "Medio": 51.61,
+                "Básico": 3.23,
+                "Crítico": 0.0
+            },
+            {
+                "Número": "P046",
+                "Avanzado": 58.18,
+                "Medio": 41.82,
+                "Básico": 0.0,
+                "Crítico": 0.0
+            }
+        ]
+    }
+}

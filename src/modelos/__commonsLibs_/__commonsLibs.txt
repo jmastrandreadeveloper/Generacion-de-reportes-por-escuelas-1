@@ -1,0 +1,2 @@
+esta librería mantiene las funciones comunes a más de un modelo
+se colocan acá dentro las librerias para agrupar y filtrar y que son comunes acámas de un modelo de datos

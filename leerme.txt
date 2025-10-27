@@ -1,0 +1,8 @@
+-la foma de tabaja con los agrrupamientos se va a realizar co n la función creada anteriormente
+-se uará un diccionario para describir los agrupamientos y a su vez ese diccionario
+será el que se use para crear los filtros necesarios, es decir que dependiendo de la manera
+que agrupemos los datos afectando a las columnas que necesitamos agrupar, esas columnas serán
+las que se utilizan en los filtros, por ejemplo:
+-curso
+-curso división
+-etc

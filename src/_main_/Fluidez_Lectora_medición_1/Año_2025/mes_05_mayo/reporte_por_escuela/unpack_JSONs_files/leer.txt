@@ -1,0 +1,7 @@
+acá crearemos los reportes PDFs usando las librerías para crear PDFs
+el conjunto de librería que uaremos es:
+- unpack_JSON_file.py que sirve para desempaquetar los archivos JSON que contiene los datos procesados,
+lo que va a hacer la función es tomar una carpeta donde están todos los archivos JSON y los va a leer uno por uno para
+desempaquetar los datos y generar los PDFs
+- funciones que servirán para leer PDFs y poder manipularlos
+- funciones para crear títulos y tablas dentro de los archivos PDFs

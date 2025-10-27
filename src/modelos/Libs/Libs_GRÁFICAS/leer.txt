@@ -1,0 +1,3 @@
+acá pondremos las funciones de gráficos
+estará divido para gráficos usando plotly
+y para otras librerías que queramos utilizar

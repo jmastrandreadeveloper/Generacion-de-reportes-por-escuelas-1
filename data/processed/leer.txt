@@ -1,0 +1,3 @@
+acá dentro de la carpeta processed/transformed/Fluidez y processed/transformed/Nominal van 
+a ir apareciendo los diferentes .csv que se obtengan del procesamiento y transformación
+de los datos, estarán en un único lugar. 
